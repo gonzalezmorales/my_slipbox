@@ -3,7 +3,19 @@ import requests
 import re
 import copy
 
+#####
+# Run with: python trello/graph_from_trello.py
+#####
+
+# work in progress:
+#url = "https://api.trello.com/1/lists/5e78499b984629275a804e17/cards?fields=id,shortLink,desc,name,labels"
+
+# business continuity list:
+#url = "https://api.trello.com/1/lists/5e7320f3b0352813baa40b08/cards?fields=id,shortLink,desc,name,labels"
+
+# permanent notes:
 url = "https://api.trello.com/1/lists/5e64f121096f0e0d20806393/cards?fields=id,shortLink,desc,name,labels"
+
 payload = {}
 headers = {}
 response = requests.request("GET", url, headers=headers, data=payload)
@@ -80,9 +92,10 @@ for n in clean_notes:
 
 # Ensure all links are bi-directional in the graph:
 for k, v in graph.items():
+    print('----')
+    print(f'k: {k}, v:{v}')
     for i in v:
         graph[i].add(k)
-
 # clean notes
 for n in clean_notes:
     n['links'] = list(graph[n['shortLink']])

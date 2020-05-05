@@ -19,10 +19,13 @@ const myConfig = {
     color: "lightblue",
     size: 120,
     highlightStrokeColor: "blue",
-    labelProperty: "name"
+    labelProperty: "name",
+    fontSize: 8,
+    highlightFontSize: 9,
+    highlightFontWeight: "bold"
   },
   link: {
-    highlightColor: "lightblue"
+    highlightColor: "blue"
   },
   width: window.innerWidth,
   height: window.innerHeight * 0.9,
