@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="directed">
+    <node id="1i1bh7AA" />
+    <node id="Yx0ZUlq2" />
+    <node id="8B67V92I" />
+    <node id="Gjve1WgL" />
+    <node id="66kUhExT" />
+    <node id="AMu8kLNJ" />
+    <node id="yHy01yYb" />
+    <edge source="1i1bh7AA" target="Yx0ZUlq2" />
+    <edge source="1i1bh7AA" target="8B67V92I" />
+    <edge source="1i1bh7AA" target="Gjve1WgL" />
+    <edge source="1i1bh7AA" target="66kUhExT" />
+    <edge source="Yx0ZUlq2" target="8B67V92I" />
+    <edge source="Yx0ZUlq2" target="1i1bh7AA" />
+    <edge source="Yx0ZUlq2" target="66kUhExT" />
+    <edge source="8B67V92I" target="Yx0ZUlq2" />
+    <edge source="8B67V92I" target="66kUhExT" />
+    <edge source="8B67V92I" target="1i1bh7AA" />
+    <edge source="Gjve1WgL" target="66kUhExT" />
+    <edge source="Gjve1WgL" target="1i1bh7AA" />
+    <edge source="66kUhExT" target="Gjve1WgL" />
+    <edge source="66kUhExT" target="AMu8kLNJ" />
+    <edge source="66kUhExT" target="8B67V92I" />
+    <edge source="66kUhExT" target="1i1bh7AA" />
+    <edge source="66kUhExT" target="Yx0ZUlq2" />
+    <edge source="AMu8kLNJ" target="66kUhExT" />
+    <edge source="AMu8kLNJ" target="yHy01yYb" />
+    <edge source="yHy01yYb" target="AMu8kLNJ" />
+  </graph>
+</graphml>

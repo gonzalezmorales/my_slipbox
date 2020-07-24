@@ -11,6 +11,10 @@
 # production
 /build
 
+# python cache
+/cna/__pycache__
+/trello/__pycache__
+
 # misc
 .DS_Store
 .env.local

@@ -1,0 +1,2294 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="partition" attr.type="long" for="node" id="d5" />
+  <key attr.name="sources" attr.type="string" for="node" id="d4" />
+  <key attr.name="quotes" attr.type="string" for="node" id="d3" />
+  <key attr.name="labels" attr.type="string" for="node" id="d2" />
+  <key attr.name="text_md" attr.type="string" for="node" id="d1" />
+  <key attr.name="name" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="NwHayaCP">
+      <data key="d0">Liberalism</data>
+      <data key="d1">Liberalism seeks to provide a way out of the continuous oscillation between authoritarianism and individualism.  It aims to establish a social order that is not built on the basis of irrational dogma, but at the same time, allows for a minimum of stability and order necessary for the preservation and functioning of the state.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">oabuUCA7</data>
+      <data key="d5">0</data>
+    </node>
+    <node id="uIHekGyz">
+      <data key="d0">Individual freedom vs social cohesion</data>
+      <data key="d1">In human history, as in the history of philosophy, the pursuit of individual freedom has been always in conflict with the quest for social cohesion 
+
+- In ancient Greece, social bonds where established, in varying degrees, through the loyalty and duties _of citizens_ towards the state. 
+- After the Greeks where conquered by Rome, a more individualistic ethic emerged (e.g., the stoics identified virtue not so much in the relationship between citizens and the State, but between the soul and God).  
+- With Christianity, the idea became more widespread that an individual's duties towards God take precedence over those towards the state. 
+- Liberalism provided for a clear separation between the public and the private spheres.  
+- This separation let, on one hand. to romanticism and individualism, and on the other to doctrines centered around the glorification of the state.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">oabuUCA7</data>
+      <data key="d5">0</data>
+    </node>
+    <node id="GH8W0S4g">
+      <data key="d0">Locke</data>
+      <data key="d1">Locke opposed both individualism and the unmitigated submission of the individual to an absolute authority.  According to Russell, this eventually led to doctrines centered around the glorification of the state.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">oabuUCA7</data>
+      <data key="d5">0</data>
+    </node>
+    <node id="zPySth0x">
+      <data key="d0">What is philosophy</data>
+      <data key="d1">Philosophy combines both scientific and ethical/religious points of view.  
+
+It sits between science (knowledge) and theology (dogma).  On the one hand, it appeals to reason instead of authority or tradition; on the other, its speculates about things that are not know (or even knowable) with certainty.  
+
+Philosophy asks questions that science cannot answer (at least not yet). But is does not accept the (unquestionable) answers provided by theology.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">oabuUCA7</data>
+      <data key="d5">0</data>
+    </node>
+    <node id="V2qxeWls">
+      <data key="d0">Why study philosophy?</data>
+      <data key="d1">Historian's perspective:
+
+- People's behavior is at least in part determined by their notions of good and evil. 
+- "To understand an era or a people, one has to understand their philosophy."
+- There is a two-way causality between human history and the history of philosophy; similarly, one's life situation determines one's own philosophy, and vice-versa.
+
+Personal perspective:
+
+- Philosophy tries to teach us how to live without being paralyzed by the absence of certainty.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">oabuUCA7</data>
+      <data key="d5">0</data>
+    </node>
+    <node id="rJKUGkhR">
+      <data key="d0">Origins of Philosophy as a discipline</data>
+      <data key="d1">- Philosophy originated as a discipline independent of theology in Greece around the **6th century BC**, with Thales. In its origins, philosophy and science were not different from each other.
+- With the rise of Christianity and the **end of the Roman empire**, philosophy merged back into theology 
+- Philosophy's second "big era" between the **11th and 14th centuries** under the rule of the catholic church, and ended with the Reformation.
+- It's third era, from the **17th century to date**, is more influenced by science and secular points of view, although traditional religious influences are still present.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">oabuUCA7</data>
+      <data key="d5">0</data>
+    </node>
+    <node id="SLgwJQDz">
+      <data key="d0">Conflict between church and state in the Middle Age</data>
+      <data key="d1">In the conflict between church and state that ensued between the end of the 5th century until middle of the 11th century, the former prevailed. The established philosophy of this era played a key role in this, since although  the secular centers of power kept the monopoly of violence and were not bound by a notion of legality, the authority of kings and barons of germanic descent was dependent on the loyalty and support of their feudal aristocracies, while the church had the monopoly on education and, more importantly, was believed to have the keys to everyone's eternal salvation or damnation.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">oabuUCA7</data>
+      <data key="d5">0</data>
+    </node>
+    <node id="bawDrRBv">
+      <data key="d0">Renaissance and Reformation</data>
+      <data key="d1">The Renaissance and the Reformation destroyed the unity of Christianity around the pope's authority.
+- New knowledge about antique cultures became more widespread
+- Copernicus' astronomy gave Man and the Earth a different place in philosophy
+- The belief in eternal regularity was replaced by scientific inquiry, subjectivism and moral relativism
+- With Machiavelli, politics was understood as the naked pursuit of power.
+- The Reformation was a revolt of the Nordic kings and peoples against the pope's dominance.
+- The authority of the pope was countervailed not by one secular emperor, but by a multitude of nation states (and the strengthening of social bonds within them)
+- In the new protestant philosophy, there is no longer a single earthly intermediary between the soul and God
+- The truth does not come from an authority, but is grasped by each individual through reason
+- This lead to the advent of anarchism, mysticism. 
+- There is no one protestant philosophy, but as many philosophies as there are philosophers.
+- Slowly, the seeds are planted for a re-emergence of individualism and pluralism.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">oabuUCA7</data>
+      <data key="d5">0</data>
+    </node>
+    <node id="kSY5JM8j">
+      <data key="d0">Origins of modern philosophy: Descartes and subjectivism</data>
+      <data key="d1">Modern philosophy begins with Descartes, who attempts to derive the knowledge of the external world from the certain knowledge of the existence of one's self and one's own thoughts.
+
+The resulting philosophical subjectivism--whose origins can be traced back to the protestant opposition to the authority of the pope--goes hand in hand with the emergence of liberalism and a more general opposition to all kinds of secular government and the gradual rise of political anarchism.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">oabuUCA7</data>
+      <data key="d5">0</data>
+    </node>
+    <node id="Ov1RUbvE">
+      <data key="d0">Eighteenth century's sentimentalism ("Empfindsamkeit") and romanticism</data>
+      <data key="d1">A deed is valued not against its good consequences or its alignment with moral principles, but against the intensity and "authenticity" of the (subjective) sentiments that engender it.  This leads to the romantic cult of heroism (Carlyle and Nietzsche) and passion (Byron).
+
+The individual is no longer seen as a member of a community, but as an object of aesthetic contemplation.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">oabuUCA7</data>
+      <data key="d5">0</data>
+    </node>
+    <node id="ClFwmtgA">
+      <data key="d0">Data visualization</data>
+      <data key="d1">Exploring data and analytic results in visual form helps identify and communicate conclusions in ways that are easily understood, shared and acted upon.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">XN9jt6q8</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="iJY1iH4F">
+      <data key="d0">Geospatial data analysis and visualization</data>
+      <data key="d1">Geospatial data analysis and map visualizations can help identify trends, patterns and relationships between different data sets over geographic space.  The analysis and visualization of geospatially disaggregated data "enhances the ability to understand and respond to place-based factors" affecting the phenomenon under study.  It also can lead to "new questions or ideas about relationships in the data that can be further explored with additional methods".</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">XN9jt6q8</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="etUj8mX6">
+      <data key="d0">Map visualizations</data>
+      <data key="d1">Map visualizations allow to:
+- Identify outliers in the spatial distribution of individual variables
+- Identify and highlight spatial correlations across multiple datasets.  
+- Identify and highlight spatial patterns of inequality at the subnational level (e.g., across districts, municipalities, and communities)</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="3c7dZcB6">
+      <data key="d0">Communicating results of data innovation projects</data>
+      <data key="d1">**Risk:**
+
+- Outputs from data innovation projects do not reach their intended users, and remain unused by policy and decision makers
+- Key insights and caveats of project results are not presented in formats that are easy to understand by different types of technical and non-technical users 
+- Potential users are not aware of project outputs and/or their value to inform policy and decision making
+
+**Mitigation:**
+
+- Communicate clearly and frequently any limitation of the source data and of the applicability of outputs, with a view to avoiding the building of unrealistic expectations
+- Explain possible applications and demonstrate the value of resulrs at an early stage
+- Develop a results communication strategy aimed to maximize the reach of the outputs and their impact. This strategy may include, among other things:
+  - A **social media campaign** to highlight main results and outputs, and direct user to data and resources to understand the underlying methodologies. 
+  - **Online dissemination of results** through the official data dissemination platforms of the NSO and participating government agencies, including: 
+    - Downloadable **datasets**
+    - Online **maps and visualizations**
+    - Data stories / **narratives** that put data outputs in context and make them easier to understand for policy and decision makers
+  - Production and distribution of project **reports** in multiple formats
+  - User outreach **events**</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="qpy6M6vh">
+      <data key="d0">Geo-spatial disaggregation</data>
+      <data key="d1">The geographic scale at which data are disaggregated affects the type of information that can be derived from it.  
+
+Data collected at more granular level of geographic detail often provide more useful information about patterns of geographic variation and correlation, and can be more flexibly aggregated into broader geographic areas suitable for different types of analysis.
+
+Examples of geographic scales:
+
+- Administrative unit (level 0, level 1, level 2...)
+- Populated place
+- Point location
+- Grid location
+- Area/Line features
+
+Defining a minimum level of geospatial disaggregation facilitates data integration and analysis.  Such minimum level of geospatial disaggregation should be established considering factors such as:
+
+- **Analytic objectives** (e.g., informing policies or decisions at national or local levels)
+- **Country context** (e.g., how large are the different levels of administrative units)
+- Expected **variability** within and across different units at each level of disaggregation (e.g., too much variability within units / too little variability between units may require more granular disaggregation)
+- Type of **data collection process** (e.g., earth observation, on-site measurements, or administrative/business records). 
+- Potential **privacy** implications (e.g., whether combining data at a specific level of geographic disaggregation with other datasets could lead to re-identification of personal or individual-level information)
+- **Resources** (e.g., expertise and technology required to collect, process, and analyze data at a specific level of geographic desaggregation).</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">XN9jt6q8</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="tltgpLsL">
+      <data key="d0">Levels of disaggregation of administrative units</data>
+      <data key="d1">The hierarchy of political divisions of a country's territory is comprised by administrative units, each of which is delineated by specific geographic boundaries.
+
+- The country is the highest-level administrative unit, and it is referred to as the "**Level 0**" administrative unit.  
+- The first level of subdivision of administrative units within a country is referred to as '**Level 1**".
+- Administrative units at further levels of geographic disaggregation are denoted as "**Level 2**", "**Level 3**", etc.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">XN9jt6q8</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="pXxz1MHR">
+      <data key="d0">Geo-referencing</data>
+      <data key="d1">Geo-referencing makes it relatively easy to bring together, overlay and analyze information from multiple sources based on different units of analysis.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="6WFYziDD">
+      <data key="d0">Comparability across data sources</data>
+      <data key="d1">The comparability of variables measured across different data sources is a key data quality issue.  
+
+Changes over time that may adversely impact comparability of variables across different data sets include:
+
+- Changes in the definition and coverage of reference geographic areas (e.g., creation or re-drawing of boundaries of new administrative units)
+- Changes in statistical classifications
+- Changes in sampling methodology
+- Changes in definition of reference time periods (e.g., calendar vs. fiscal year)
+- Changes in survey questions or measurement instruments</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">2</data>
+    </node>
+    <node id="PjMcjUgb">
+      <data key="d0">Team charter template</data>
+      <data key="d1">### Purpose
+
+- Why does our team exist?
+- What are we collectively working towards?
+- What are our personal goals?
+- What do we want to do in the next 15,30, 90 days?
+
+### Measures
+
+- What is the ultimate measure of success for the team?
+- How do we track progress towards our goals?
+
+### Roles
+
+- What are the roles we have in our team?
+- What are they responsible for?
+- Who will fill those roles?
+
+### Practices
+
+- How do we want to work together?
+- How do we communicate and meet?
+- What tools do we use?
+- How often do we revisit goals, retrospect, strategize?
+
+### Guardrails
+
+- What is safe to try?
+- How do we make decisions?
+- What rules do we want to put in place?
+- What other commitments do we have outside the team?</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">gMK50Cdd</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="1hLRzYSe">
+      <data key="d0">Content Production Team</data>
+      <data key="d1">A content production team is often an example of a cross-functional team, with members coming from different functional areas of the organization that  may include:
+- Content strategist
+- Content manager
+- Content writer(s)
+- Content editor(s)
+- Content analyst</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">4</data>
+    </node>
+    <node id="J4RjLkh4">
+      <data key="d0">Ad-hoc cross functional teams</data>
+      <data key="d1">Ad-hoc cross functional teams seek to integrate skills across organizational boundaries in order to accomplish a specific goal over a limited period of time. They are often called during a critical juncture to deal with a specific problem or explore a new opportunity.
+
+A critical success factor is having clearly defined, realistic outputs, timeline, and exit criteria for each phase of the project.  
+
+Ad-hoc  cross functional teams are challenged by complex supervisory relationships and incentive structures, as their members formally report to different functional managers. This increases the need for **horizontal cooperation and coordination** among team members.
+
+To  avoid turf battles and organizational power politics, the different members of an ad-hoc cross-functional team must be completely **focused on creating value to customers**.  Team members must therefore have adequate **incentives to collaborate** outside their own "home teams" in the organization.  This means that their performance needs to be measured and rewarded based on their contributions towards achieving the objectives of the cross-functional project.
+
+Putting together the **right mix of talents** is another key ingredient for the success of a cross-functional team.  Reluctance by managers from different functional areas to get personally involved and to commit their most qualified staff to a cross functional project team often leads to poor results. On the other hand, assigning key staff members to a cross-functional project is a clear signal of the commitment by senior management to the success of the project. 
+
+Ad-hoc cross functional teams must also have a clearly defined **"sunsetting" plan** for incorporating back people and the team outputs, innovations and learnings back into the organization's functional processes and structure when the time comes to dissolve the team.  In particular, it is important to identify opportunities for team members to take on new responsibilities based on the skills they developed while being part of the ad-hoc cross functional team.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">gMK50Cdd</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="AP2e8YNz">
+      <data key="d0">Elements of a content strategy</data>
+      <data key="d1">A content strategy includes:
+- A list of **clear goals**
+- A method for measuring success
+- A competitor analysis
+- Persona development
+- A brand style guide
+- A list of types of content to be produced
+- An initial editorial calendar</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">4</data>
+    </node>
+    <node id="mmwn1oEU">
+      <data key="d0">Establishing a national project team</data>
+      <data key="d1">Each national data innovation project requires dedicated personal, both from the NSO and from other participating agencies, to carry out the work at the country level.  The national data innovation project team should consist of:
+
+- A national project coordinator (bridge between technical team at NSO and other stakeholders)
+- Two statisticians (closely familiar with source data and statistical analysis prcesses)
+- One econometricians (with expertise in nocasting and/or small area estimation techniques)
+- One GIS expert (with expertise in GIS analysis and map visualization tools)
+- One IT focal point (with admin rights and familiar with data security protocols)
+- Two policy experts</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">3</data>
+    </node>
+    <node id="Lb8FlQSj">
+      <data key="d0">Responsibilities of the content manager</data>
+      <data key="d1">Responsibilities of the content manager include:
+
+- Making day-to-day decisions about what should be pulbished, how and when
+- Explaining to content creators and project owners why a piece of content should be created
+- Finding topics that will perform well in various channels (blog articles, Twitter, email...)
+- Staying on top of the editorial calendar - overseeing that content getes finished and published on time
+- Knowing the workload of each content creator</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">4</data>
+    </node>
+    <node id="MMjEeFha">
+      <data key="d0">Skills required in a content manager</data>
+      <data key="d1">- Very good understanding of the needs of users
+- SEO and keyword research: Ability to identify topics and opportunities for improving organic traffic
+- Strong understanding of the organization's communication goals: Ability to generate meaningful topics and organize them in the editorial calendar</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">4</data>
+    </node>
+    <node id="oWg5LrNe">
+      <data key="d0">Responsibilities of the content analyst</data>
+      <data key="d1">The content analyst digs into the use analytics to measure content performance and create reports that help determine what works and what doesn't, in order to fine tune:
+- Content creation strategy (what type content should we create?)
+- Content promotion strategy (what content should we promote? What content promotion activities are most effective?)</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">4</data>
+    </node>
+    <node id="jHpeljkZ">
+      <data key="d0">Content strategy goals</data>
+      <data key="d1">- Increase *website traffic*
+- Make brand channels a destination for *organic traffic*
+- Increase *brand awareness*
+- Establish *brand authority*
+- Bring **value to users**
+  - Help users identify and understand the main challenges faced by the national and global statistical systems that result from the COVID-19 pandemic
+  - Help global and national statistical systems overcome these challenges</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">4</data>
+    </node>
+    <node id="bHaKr9ga">
+      <data key="d0">Types of content</data>
+      <data key="d1">There are many types of content:
+- Blogs
+- Emails
+- Videos
+- Infographics
+- Newsletters
+- Press releases
+- ...</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">4</data>
+    </node>
+    <node id="S1rUnyfS">
+      <data key="d0">Responsibilities of the content editor</data>
+      <data key="d1">The role of the content editor is to make a writer's good work great, offering guidance and helping authors think differently about their topic and ensuring that only high-quality content gets published.
+
+The content editor's responsibilities include: 
+
+- Review all written materials to ensure that they:
+  - are free of errors
+  - comply with the style guide
+  - reflect the brand's voice 
+  - meet the goals set in the content strategy
+- Suggest revisions
+- Approve publication</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">4</data>
+    </node>
+    <node id="i54AuJAT">
+      <data key="d0">Content promotion strategy</data>
+      <data key="d1">Once new content is published, there is need to promote content through social media and other channels.
+
+The effectiveness of the content promotion strategy should be monitored through content analytics.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">4</data>
+    </node>
+    <node id="xFkKBQHT">
+      <data key="d0">Guest blogging</data>
+      <data key="d1">Guest blogs where third parties promote their own content allow to strengthen partnerships while attracting visitors to our website and making it visible to broader audiences.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">4</data>
+    </node>
+    <node id="ofQx7aBs">
+      <data key="d0">Responsibilities of the social media manager</data>
+      <data key="d1">- Plan the social media calendar
+- Write and schedule social media posts
+- Determine the strategy for responding to and interacting with social media users</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">4</data>
+    </node>
+    <node id="Tlb9tDLU">
+      <data key="d0">Sharing of experiences, good practices and lessons learned</data>
+      <data key="d1">Success in the use of new technologies and sources of data will depend on a wide variety of contextual and operational factors, as well as on the evolving severity and nature of the impact of the COVID-19 epidemic in each country. Managers of national and global statistical programmes affected by the crisis require a platform for rapidly sharing experiences and lessons learned as they navigate a new environment characterized by many uncertainties and risks. This sharing should focus on the essential aspects of planning, management and implementation of re-organization and adaptation strategies.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">vh5QhUfR</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="4INbWGw6">
+      <data key="d0">COVID-19 response website types of users</data>
+      <data key="d1">Our content strategy needs to cater to multiple types of audiences. We need to know who are our target audiences.
+
+- Chief statisticians from national and international statistical organizations
+- Data experts/practitioners from national and international statistical organizations
+- Data experts/practitioners from UN Country Teams
+- Data experts/practitioners from civil society, academia and the private sector
+- Students at different education levels (high school/undergraduate/graduate)
+- Analysts / policy experts from national governments and international organizations
+- Donors providing funding for statistical capacity building</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">6</data>
+    </node>
+    <node id="h1lCewmo">
+      <data key="d0">COVID-19 response website - analysis of users' goals</data>
+      <data key="d1">Once we know who our target audiences are, we need to know what are their own goals, and how we will be helping them attain those goals.  
+
+Our main constituency are National Statistical Offices and statistical offices of international organizations, whose main goals are to **(1) keep existing statistical programmes running**, and **(2) respond to new data requirements ** around the COVID-19 crisis from national and local governments, other institutional decision makers, and the public at large.
+
+These goals translate into specific needs:
+
+- **Mobilize resources** to support regular statistical activities affected by the pandemic and to launch and run new statistical activities to satisfy new data demands
+- **Obtain access to methodological guidance** on how the use of new data sources, methods and technologies for the collection, processing, analysis, dissemination and communication of data and statistics
+  - Create opportunities for peer-to-peer **sharing of experiences** 
+  - Provide access to relevant **training materials**
+  - Deliver **expert advice**
+
+- **Identify authoritative, reliable sources of data** to monitor the day-to-day evolution of the health crisis, to assess and monitor social, economic and environmental impact of the pandemic, and to inform recovery policies over the longer term
+- Identify **capacity building needs**
+- **Coordinate initiatives** that respond to the needs of national statistical systems
+  - Understand who is doing what across the global and national statistical systems</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">6</data>
+    </node>
+    <node id="i7m8d4YQ">
+      <data key="d0">Information architecture for the COVID-19 response platform</data>
+      <data key="d1">Guidance and resources provided through UNSD's COVID-19 response platforms could be organized according to the various phases of the statistical business process:
+- Data Collection
+- Data Validation
+- Data Processing 
+- Data Analysis
+- Data Dissemination
+
+They could also be organized according to the classification of statistical activities.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">4</data>
+    </node>
+    <node id="jj13yRW9">
+      <data key="d0">COVID19 contingency plans in statistical organizations</data>
+      <data key="d1">- Determine how existing statistical activities, processes and programmes are being affected by the crisis
+- Develop a plan to switch on-site and field processes to a remote/telecommuting setting:
+    - On-site and field ,processes that can be performed remotely by staff using existing infrastructure
+    - On-site and field processes that could be performed remotely after digitizing and/or migrating them to cloud environments
+    - On-site and field processes that would require establishing mechanisms for secure remote access to central databases and systems in order to be performed out of premises.
+- Identify priority data needs of governments and other stakeholders to respond to the COVID19 crisis</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">Y9KlpXBF</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="53FNlsMn">
+      <data key="d0">Training in statistical and econometric modeling</data>
+      <data key="d1">Depending on the specific objectives of a data innovation project for the production of official statistics, there is need to provide specialized statistical and econometric modeling training.  For instance:
+
+- Population density estimation
+- Household consumption estimation
+- Crop-yield estimation
+
+TO DO: What are the most needed types of statistical and econometric modeling methods that project teams need to be able to apply?</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">6</data>
+    </node>
+    <node id="P43SdKCs">
+      <data key="d0">Training materials for national staff</data>
+      <data key="d1">To enable national staff to reproduce the outputs of data innovation projects and to utilize innovative data sources, technologies and methods on a sustainable basis, it is crucial to develop training materials and knowledge resources tailored to their own needs and context.
+
+- In their own language
+- Applicable in their existing technological infrastructure</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">6</data>
+    </node>
+    <node id="QJsx3KmY">
+      <data key="d0">Data innovation road map</data>
+      <data key="d1">A road map of consisting of country-specific activities, intermediate outputs and expected outcomes
+
+**Pre-production:**
+
+1. Define **scope**
+1. Identify **key stakeholders**
+1. Build **suport** 
+1. Reach out to **potential users**
+1. Secure **resources**
+1. Establish **project team**
+1. Procure/setup/configure the necessary **hardware and software** tools
+1. Secure **access to data** inputs
+1. Assess **quality of source data**
+1. Transform original source data into **analysis-ready datasets**
+1. Set up **data inputs clearinghouse**
+1. Provide **practical training**
+
+**Production:**
+
+1. Compute intermediate indicators to be used as (geospatial) covariates in statistical estimation models (e.g., distance to service-delivery points, distance to roads, elevation, ...)
+
+
+**Post-production:**
+
+1. Communicate project outputs to key audiences</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="mRaNOol6">
+      <data key="d0">Complexity of census programmes</data>
+      <data key="d1">Population and housing census programmes are complex data collection operations comprising a series of many interrelated activities. They require contacting and collecting information on the whole population of a country within a limited period of time.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">vh5QhUfR</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="5gf8Ujfa">
+      <data key="d0">Testing of new IT systems for data collection</data>
+      <data key="d1">It is necessary to conduct rapid but thorough testing before the introduction of new IT systems for data collection, in order to prevent further disruptions in critical statistical operations. This testing should cover:
+
+- Functionality
+- Usability
+- Integration
+- Accessibility
+- Security
+- Reliability / stress testing</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">vh5QhUfR</data>
+      <data key="d5">7</data>
+    </node>
+    <node id="TsYS8WO6">
+      <data key="d0">Challenges of introducing new technologies</data>
+      <data key="d1">National Statistical Offices are being challenged to introduce telephone-based interviewing and web-based self-reporting techniques at once for many critical data collection operations--such as population and housing, agricultural, and economic censuses, as well as household, business and other types of surveys. In many cases, they need to do it without the benefit of prior experience and with very limited time to conduct detailed analysis and testing of the different alternatives.   
+
+The introduction of these new technologies is risky and can be expensive. To make an informed decision on the type of technologies best suited to mitigate disruptions to data collection programmes, National Statistical Offices need to take into account their existing infrastructure, technical capacities and resources.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">vh5QhUfR</data>
+      <data key="d5">7</data>
+    </node>
+    <node id="A23mYrDu">
+      <data key="d0">Challenges of remote interviewing and self-reporting</data>
+      <data key="d1">Even National Statistical Offices that have started using electronic data collection approaches, such as computer-assessed personal interviews (CAPI), still rely heavily on personal interviews, Some of the challenges in moving away from face-to-face interviews to remote interviews and self-reporting methodologies include:
+
+- Implementing new mechanisms to identify, contact, authenticate and communicate with respondents
+- Establish mechanisms to geo-locate responses obtained via remote interviewing and self-reporting.
+- Procure/develop and test IT systems to support computer-assisted telephone interviews and online self-reporting portals
+- Implement mechanisms to support respondents in completing online questionnaires
+- Implement mechanisms to support and oversee telephone-based interview workflows
+- Ensure secure remote access to IT systems and secure data exchange.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">vh5QhUfR</data>
+      <data key="d5">7</data>
+    </node>
+    <node id="MfTvaMIL">
+      <data key="d0">Risks and challenges of adopting cloud applications</data>
+      <data key="d1">Moving systems currently hosted on-premises to cloud services is a very complex task that requires:
+
+- Vendor selection and procurement
+- Data cleaning and migration
+- Addressing user management and authentication issues</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">ZNBpGaEL</data>
+      <data key="d5">7</data>
+    </node>
+    <node id="vIDWWZjJ">
+      <data key="d0">Communication strategy with respondents</data>
+      <data key="d1">It is crucial to design and launch as quickly as possible a contact and communication strategy towards respondents in the target population, aimed to maximize high response rates in a new web-based or telephone-based data collection setting.  This include communications soliciting households to complete online questionnaires or to be interviewed by telephone, sending reminders and follow-ups in case of non-response.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">vh5QhUfR</data>
+      <data key="d5">7</data>
+    </node>
+    <node id="oRq6vy7w">
+      <data key="d0">Re-purposing CAPI infrastructure to conduct CATI data collection</data>
+      <data key="d1">National Statistical Offices that have in place a data collection programme based on computer-assisted personal interviews (CAPI) may consider re-purposing the existing software and hardware infrastructure to support computer-assisted telephone interviews (CATI) instead.  This would allow to leverage the existing devices (tablets, personal digital assistants, smart phones or portable computers) as well as their specialized software, including their ability to instantly transmit data over mobile data networks.  
+
+However, this re-purposing is not trivial.  For instance, it requires to integrate CATI operations with existing digital mapping and operational management applications built under the assumption that enumerators/interviewers would be entering the data on the same location as the respondent. As interviewers will now be entering the information from a remote location, this creates new challenges for the automatic geo-coding of questionnaire responses and for the supervision of the interview process.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">vh5QhUfR</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="qvOtxtiK">
+      <data key="d0">Continuity of statistical programmes: Role of new technologies</data>
+      <data key="d1">It is imperative to leverage innovative technologies and approaches to ensure the continuity of censuses, household surveys, and other major statistical programmes.  This includes making use, to the fullest extent possible, of mobile connectivity, cloud computing, smart mobile devises, and other technological innovations that offer alternative means to ensure that activities around the capturing, validation, processing and dissemination of census and survey data can go on in the new environment of limited mobility of staff and of the population at large.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">vh5QhUfR</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="SGskQjpC">
+      <data key="d0">Contingency planning needs to be tailored to national circumstances</data>
+      <data key="d1">The response of each National Statistical Office to the COVID-19 crisis needs to be tailored to its own particular circumstances, including the nature and severity of the disruptions caused by the crisis, as well as its specific institutional, operational, economic, and socio-cultural contexts.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">vh5QhUfR</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="nVgnq2cz">
+      <data key="d0">Impact of COVID-19 on census programmes</data>
+      <data key="d1">The COVID-19 crisis creates unprecedented and sudden challenges for countries conducting population and housing censuses and other major statistical operations, disrupting data collection, processing, analysis and dissemination activities carried out by National Statistical Offices, forcing them to rapidly develop and adopt alternative ways of implementing them.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">vh5QhUfR</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="mRUJpSCa">
+      <data key="d0">Impact of COVID19 pandemic on national statistical offices</data>
+      <data key="d1">Disruption of normal statistical production workflows:
+
+The measures to contain the spread of the epidemic in many countries include the requirement for very large parts of the population to stay at home and avoid all kinds of social contact. Moreover, there is a substantial risk that the global health emergency will continue affecting the normal operations of all sectors of society over several months. This will prevent most staff of statistical organizations from going to their offices or to the field in order to perform their regular tasks, as well as the cancellation of public activities.  
+
+The impact on statistical operations include:
+- Break down of key data collection programmes
+- Disruption of data processing and analysis workflows
+- Delay in publication of statistical outputs
+- Suspension of user engagement events and staff training activities</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">Y9KlpXBF</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="87In6UYV">
+      <data key="d0">Selecting alternative data collection approaches - time considerations</data>
+      <data key="d1">Time is a key factor in selecting alternative data collection approaches to ensure the continuity of statistical operations:
+
+- Estimated time necessary to procure/develop, test and deploy technical solutions 
+- Estimated time that needs to be spent in training of staff in new skills and the use of new technologies</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">vh5QhUfR</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="xUr89DOT">
+      <data key="d0">Priority objectives of COVID-19 contingency plans for statistical programmes</data>
+      <data key="d1">Priority areas are:
+
+- Maintain adequate coverage of the target population
+- Ensure high questionnaire- and item-response
+- Guarantee overall quality of data collected
+- Maintain timely data collection, processing and dissemination
+- Minimize response burden
+- Use resources efficiently / minimize cost of statistical operations</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">vh5QhUfR</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="URGTzbbu">
+      <data key="d0">Measures by WHO and public health authorities to contain COVID-19</data>
+      <data key="d1">WHO and public health authorities across the world are taking measures to contain the COVID19 epidemic.  All sectors of society, including members of the global and national statistical systems, need to act promptly and in a coordinated manner to respond effectively to the crisis and mitigate its human and economic impacts, as well as to usher a rapid and sustainable recovery.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">A1MOeNel</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="5dUHywzA">
+      <data key="d0">Need to adapt central systems of National Statistical Offices</data>
+      <data key="d1">The central information systems of National Statistical Offices need to be quickly adapted in order to be able to effectively manage and monitor statistical operational activities in the context of the COVID-19 crisis, such as staff recruitment, training, data collection logistics, and supervision and gathering of operational intelligence. 
+
+The integration of</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">vh5QhUfR</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="rps4c5Jo">
+      <data key="d0">Impact of population mobility restrictions on data collection programmes</data>
+      <data key="d1">In an effort to contain the spread of the COVID-19 epidemic, many governments are imposing severe restrictions on the mobility of the population, disrupting field data collection operations and threatening the ability of National Statistical Offices to deliver high-quality, timely and cost-effective statistical outputs. 
+
+This results in the urgent need to replace current field data collection operations that rely on face-to-face interviews with alternative remote data collection methodologies, such as telephone personal interviewing or paper or web-based self-reporting methods.  
+
+To respond to this challenge, many countries need to build quickly the necessary capacity to accelerate the implementation of fully digital data collection technologies instead of traditional paper-based methods.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">vh5QhUfR</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="BQwQetnc">
+      <data key="d0">Business continuity of statistical organizations</data>
+      <data key="d1">The current COVID-19 crisis is affecting critical operations of across the entire global statistical system, and national and international statistical organizations need to urgently develop and implement action plans to ensure the continuity of key statistical compilation activities and the continued availability of data to inform emergency mitigation actions by governments and all sectors of society. 
+
+Senior management in statistical organizations need to define guidelines, in consultation with front-line managers and IT teams, to deal with the contingency.  This includes establishing new procedures and workflows on issues like:
+
+- Management of virtual teams (task tracking and performance management)
+- Secure remote data access and data exchange</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">7</data>
+    </node>
+    <node id="lh9J280B">
+      <data key="d0">Bandwidth requirements for telecommuting</data>
+      <data key="d1">Voice and video-conferencing are essential tools for effective telecommuting. However they require a minimum level of bandwidth that is not always present.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">ZNBpGaEL</data>
+      <data key="d5">7</data>
+    </node>
+    <node id="qEgpEYM3">
+      <data key="d0">Challenges related to the rapid implementation of telecommuting arrangements</data>
+      <data key="d1">- Procure, configure, and distribute computer equipment and software needed for remote collaboration among all staff members, including add-ons to enable secure remote data access and system administration capabilities (e.g., standardized end-point security software on all employee devises).  If staff has already begun telecommuting, it is necessary to work out how to distribute equipment and software to the locations where they are based.
+- Ensure voice connectivity and video-conferencing capabilities (e.g., forwarding calls to staff members' home or mobile phones; enabling soft-phone, voice-over-IP or video conference solutions). It is key to allow teams to regularly and easily talk to, and visually interact with, each other  
+- Ensure remote users have the necessary bandwidth. This may entail finding a way to upgrade the user's phone and/or internet access for a period of time.
+- Make sure there are processes in place to cover most common IT helpdesk support requests form staff members working remotely
+- Enable cloud-based backup services in all remote devices.  
+- Design, implement and implement new workflows</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">ZNBpGaEL</data>
+      <data key="d5">7</data>
+    </node>
+    <node id="smZXjmav">
+      <data key="d0">On-site infrastructure</data>
+      <data key="d1">Many statistical organizations still use server infrastructure located in their own premises to support key functions, such as collecting source data from information providers, giving staff access to data management and data analysis software, and delivering statistical outputs to users.
+
+If staff is not able to access the software tools and data needed to perform their work, statistical organizations face major disruption in essential workflows.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">ZNBpGaEL</data>
+      <data key="d5">7</data>
+    </node>
+    <node id="kfu8nyho">
+      <data key="d0">COVID-19 - Sudden spike in need for telecommuting</data>
+      <data key="d1">To limit the COVID-19 epidemic, organizations are requiring all or most of their staff work from home. This has created a huge challenge of having to manage "a very large and sudden spike" in the number of remote workers, even for organizations that already support certain number of telecommuters. National Statistical Offices are facing the prospect of a protracted telecommuting crisis.
+
+&gt; "Until now, telecommuting has been voluntary or even a reward of sorts. Not it's mandatory..."  (Rist, 2011)
+
+Such challenges include:
+- Meeting increased demand for IT help-desk support
+- Enabling staff to assume additional responsibilities regarding device and data security
+- Migrating on-premises workloads to cloud services
+- Providing remote access and remote management solutions for applications that need to remain served form on-premises servers
+- Adapting to remote performance tracking and virtual team collaboration</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">ZNBpGaEL</data>
+      <data key="d5">7</data>
+    </node>
+    <node id="88RTR3eB">
+      <data key="d0">Business continuity teams</data>
+      <data key="d1">The development and implementation of a business continuity plan requires the establishment of a cross-functional team, composed of:
+
+- Senior managemers
+- Front-line managers
+- Information Technology department
+- Legal department</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">ZNBpGaEL</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="7dELQecN">
+      <data key="d0">Updating telecommuting policy</data>
+      <data key="d1">In many organizations, existing telecommuting policies were written under the assumption that telecommuting was offered only to certain employees under special circumstances.  
+
+In the face of the COVID-19 crisis, telecommuting will be the most common work arrangement for many organizations over the foreseeable future. 
+
+There is an urgent need to review and adapt existing telecommunication policies so organizations can nimbly adjust to the new situation. 
+
+- Telecommuting as the rule and not the exception
+- Less cumbersome process for formal agreements with staff regarding use of corporate infrastructure and services</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">ZNBpGaEL</data>
+      <data key="d5">7</data>
+    </node>
+    <node id="ulLdtnHy">
+      <data key="d0">Cloud computing</data>
+      <data key="d1">Cloud computing refers to the delivery of hosted IT services over the internet.  It includes:
+
+- Software as a service (SaaS) 
+- Infrastructure as a service (IaaS)
+- Platform as a service (PaaS)
+
+Due to its reliance on hardware-independent virtualization technology, cloud computing enables organizations to quickly back up data, applications, and even operating systems to a remote data center, and to deploy them to multiple users distributed in many different locations.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">7</data>
+    </node>
+    <node id="3ONs7aFt">
+      <data key="d0">Software as a Service (SaaS)</data>
+      <data key="d1">Model in which software applications are hosted by a third-party and made available to users over the Internet, usually through a web browser.  Users do not have to install or configure anything, and the underlying cloud hardware is maintained by the service provider. 
+
+Most SaaS providers offer flexible, on-demand pricing arrangements as well as tools for user management and data migratoin.
+
+- Examples of SaaS applications:
+  - Email, videoconferencing, and other basic communication tools
+  - File sharing and team collaboration. 
+  - Human resource management
+  - Management of relationships with data providers
+  - Management or relationships with data users
+  - Specialized applications (e.g., statistical analysis software, GIS applications)
+  - E-Learning delivery</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">7</data>
+    </node>
+    <node id="LaFIh4fq">
+      <data key="d0">Remote access and remote management solutions</data>
+      <data key="d1">Business continuity in a situation where most staff have to telecommute requires the implementation of  secure and effective mechanisms for remote access and remote management for any applications in which a cloud computing solution is not feasible, so they need to remain served from infrastructure located on-premises,
+
+There must effective mechanisms in place to ensure that any on-site applications can be managed as much as possible from off-site. This includes the ability to run the most common application management tasks remotely, including system reboots, data backups, network and system security scans, and password resets.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">ZNBpGaEL</data>
+      <data key="d5">7</data>
+    </node>
+    <node id="akoVqiRK">
+      <data key="d0">Cloud computing for business continuity and disaster recovery</data>
+      <data key="d1">In recent years, cloud computing has become increasingly used by statistical organizations that do not have the hardware or personnel necessary to fully deploy software applications onsite, or that need to test new software tools in the context of pilot data-innovation projects.
+
+Today, cloud computing stands out as a key element of a business continuity and disaster recovery plan for statistical organizations, particularly in the face of the disruption national and global statistical systems caused by the COVID-19 crisis. 
+
+In order to leverage cloud computing solutions for disaster recovery and business continuity, statistical organizations require an IT architecture focused on "automating as many processes as possible in the event of disaster, ensuring that computing resources are switched over quickly to a stable backup and remain operational." (</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">7</data>
+    </node>
+    <node id="66kUhExT">
+      <data key="d0">Importance of CRVS Systems</data>
+      <data key="d1">CRVS Systems are crucially important to:
+- Build a modern public administration
+- Uphold human rights
+- Support national development initiatives
+- Improve service delivery to all people</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">8</data>
+    </node>
+    <node id="Gjve1WgL">
+      <data key="d0">CRVS systems and the 2030 Agenda</data>
+      <data key="d1">The 2030 Agenda for Sustainable Development's pleadge to leave no one behind means that no one should remain invisible.  Target 16.9 reads: "By 2030, provide legal identity for all, including birth registration".   
+
+However, many developing countries still do not have a comprehensive and complete CRVS system aligned with international standards.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">8</data>
+    </node>
+    <node id="AMu8kLNJ">
+      <data key="d0">How does a good CRVS system look like?</data>
+      <data key="d1">- Universal
+- Continuing / permanent
+- Compulsory
+- Confidential
+- Every vital event (but primarily birth and death) is registered upon occurrence
+- Vital statistics are produced and used to guide policy</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">8</data>
+    </node>
+    <node id="8B67V92I">
+      <data key="d0">Africa's Programme on Accelerated Improvement of CRVS</data>
+      <data key="d1">Africa's Programme on Accelerated Improvement of Civil Registration and Vital Statistics was created under the directive of African Ministers Responsible for Civil Registration in 2010.  
+
+Its secretariat is based at UN ECA</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">8</data>
+    </node>
+    <node id="Yx0ZUlq2">
+      <data key="d0">Decade for repositioninig CRVS in Africa</data>
+      <data key="d1">2017-2026 has been designated as the "decade for repositioning CRVS in Africa" by the Executive Councl of the African Union in Kigali.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">8</data>
+    </node>
+    <node id="1i1bh7AA">
+      <data key="d0">CRVS systems as a development imperative</data>
+      <data key="d1">There has been significant progress in recognizing CRVS systems as a development imperative</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">8</data>
+    </node>
+    <node id="yHy01yYb">
+      <data key="d0">Assessing quality of source data</data>
+      <data key="d1">- Verify quality of individual data sources
+  - Outlier detection
+  - Completeness of data / missing observations
+  - Sample bias / representativity
+  - Interoperability
+  - Internal consistency
+  - Completeness and clarity of reference metadata
+- Verify comparability / consistency across data sources</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">2</data>
+    </node>
+    <node id="lEHhU8Ma">
+      <data key="d0">ETL - Making data analysis-ready</data>
+      <data key="d1">The 'extract-tranform-load' (ETL) pattern is how most data pipelines are designed to transform raw data into analysis-ready data. this includes:
+
+1. Extracting input data from their original sources
+2. Transforming them it into usable data structures through transcoding, filtering, joining, and aggregation operations
+3. Uploading the transformed data onto a controlled data management environment (such as a data warehouse)
+
+A measure of success for the intermediate goal of preparing a set of analysis-ready data inputs is the ability to combine them in exploratory data visualizations, including map visualizations,</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">4z5iFWrh</data>
+      <data key="d5">9</data>
+    </node>
+    <node id="kCnh0WC4">
+      <data key="d0">Scope of data innovation projects</data>
+      <data key="d1">Every project needs to have a specific and detailed work programme with concrete activities and expected outcomes.
+
+The objectives and scope of every data innovation project undertaken in a country need to fit withing the regular work programme of the NSOs and the overall institutional setting of the National Statistical System.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">2</data>
+    </node>
+    <node id="5Y5WIm31">
+      <data key="d0">Poverty maps production: intermediate indicators</data>
+      <data key="d1">Poverty map production usually requires the computation of intermediate indicators to be used as covariates in poverty estimation methods:
+
+- Distance to nearby markets
+- Distance to nearby cities
+- Distance to roads
+- Distance to service delivery points (e.g., schools, health centers...)
+...</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="vlQ3wkHh">
+      <data key="d0">Gaps in poverty data</data>
+      <data key="d1">Traditional poverty measures are generally available at low frequency intervals (e.g., every ten to five years) and only at highly aggregated levels of granularity
+
+&gt;*As of \[ \], \[  \] countries have not poverty data at all for the period 2005-2019, and \[   \] have only one data point.   For half of in the global database, the most recent data point is for the year \[  \] or earlier. *</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">1</data>
+    </node>
+    <node id="XVq7u8bY">
+      <data key="d0">Poverty map production: basic steps</data>
+      <data key="d1">Estimation of small-area poverty maps usually follows methodology developed by the World Bank over more than 20 years, combining census data with household survey data. This methodology usually includes the following general steps:
+
+1. Verify quality and comparability of Household survey data and census data
+2. Verify quality of additional geospatial co-variates
+3. Estimate a model of household consumption, based on data sample from household survey (using only variables that are available in both survey and census data) and geospatial co-variates.
+4. Apply estimated parameters to census data and geospatial co-variates in order to estimate consumption per capita for all households in the census
+5. Apply appropriate poverty lines to estimate poverty rates at various levels of aggregation
+6. Build confidence intervals using standard errors
+7. Use GIS to produce visualizations of the results</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="5woerok1">
+      <data key="d0">Establishing a project steering committee</data>
+      <data key="d1">To ensure the success of a cross-functional team, it is useful to establish a steering committee of senior managers, whose role is to ensure that the project is adequately resourced and that the project goals are aligned with functional and high-level organizational goals. 
+
+This **steering committee** should include a representative of each functional area involved, and should be responsible of assigning individual project tasks to the member of the cross-functional team that is better positioned to undertake it.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="Z12lJnJp">
+      <data key="d0">Why do we write</data>
+      <data key="d1">We write to 
+- **remember** and **organize** ideas
+- **understand** and to **learn**
+- **communicate** insights</data>
+      <data key="d2" />
+      <data key="d3">7DxSGUo6</data>
+      <data key="d4">RnpNCnXf</data>
+      <data key="d5">10</data>
+    </node>
+    <node id="pS33XHDA">
+      <data key="d0">Knowledge management systems</data>
+      <data key="d1">- We need to compensate for the limitations of our brains by relying on external structures ('scafolding') to capture ideas and supports our thinking process.
+- Knowledge management systems help keep track of ever-increasing volume of information and relieve brain capacity to focus on what is important</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">RnpNCnXf</data>
+      <data key="d5">10</data>
+    </node>
+    <node id="UXewQVNc">
+      <data key="d0">Reading and note-taking</data>
+      <data key="d1">- Reading and thinking are the main task. 
+- The goal is to understand and come up with new ideas. 
+- The notes are just the tangible outcome.
+
+"The ability to express understanding in one's own words is a fundamental competency", the same as the ability "to distinguish the important bits of a text from the less important ones." (Ahrens, 2017, p. 54).</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">RnpNCnXf</data>
+      <data key="d5">10</data>
+    </node>
+    <node id="ZyufNNxO">
+      <data key="d0">Smart note-taking</data>
+      <data key="d1">According to Ahrens (2017), smart note taking requires:
+- Reading a text with questions in mind and try to relate it to other possible approaches
+- Spotting the limitations of a particular approach
+- Seeing what is *not* mentioned
+- Interpreting particular information within the bigger frame or argument of the text
+- Thinking hard about how the main ideas of the text connect with other ideas from different contexts:  *"Notes are only as valuable as the ... reference networks they are embedded in."* (Ahrens, 2017, p. 108).</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">RnpNCnXf</data>
+      <data key="d5">10</data>
+    </node>
+    <node id="3cbc3DFd">
+      <data key="d0">Confirmation bias</data>
+      <data key="d1">The very moment we decide on a hypothesis, our brains automatically go into search mode, scanning our surroundings for supporting data, (p. 79).
+
+Charles Darwin... forced himself to write down (and therefore elaborate on) the arguments that were the most critical of his theories. (p. 80).</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">RnpNCnXf</data>
+      <data key="d5">10</data>
+    </node>
+    <node id="FlUbxxop">
+      <data key="d0">Be flexible - don't cling to a fixed idea</data>
+      <data key="d1">- Don't cling to an idea if another, more promising gains momentum
+- Follow your interest and always take the path that promises the most insight
+- The more you become interested in something, the more likely it is that you will generate insights from reading, taking notes, and writing about it</data>
+      <data key="d2" />
+      <data key="d3">qh8vQ4LG</data>
+      <data key="d4">RnpNCnXf</data>
+      <data key="d5">10</data>
+    </node>
+    <node id="f6AE5k9M">
+      <data key="d0">Types of notes</data>
+      <data key="d1">1. **Fleeting notes**: Sever to capture "raw" ideas we come across. They are stored in one place for later processing.  They are only useful if reviewed and turned into proper notes within a day or so.
+2. **Literature notes**: Capture bibliographic details and brief description of sources.
+3. **Permanent notes**: Serve to develop ideas based on fleeting notes and literature notes.  Written in precise, clear, and brief full sentences. They can be understood even outside the context they were taken from.
+4. **Project notes**: Are only relevant to one particular project and can be discarded or archived after the project is finished
+
+Typical mistakes:
+- Treat every note as if it belongs to the "permanent" category
+- Collect notes only related to specific projects
+- Just collecting unprocessed fleeting notes</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">RnpNCnXf</data>
+      <data key="d5">10</data>
+    </node>
+    <node id="o2aK159Q">
+      <data key="d0">Slip box</data>
+      <data key="d1">- The slipbox is a simple external system to organize one's thought, ideas, and collected facts.
+- To be effective, it has to be embedded in one's overarching workflow (daily routine)
+- Video of Prof. Niklas Luhmann: https://www.youtube.com/watch?v=qRSCKSPMuDc&amp;feature=youtu.be&amp;t=37m30s</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">RnpNCnXf</data>
+      <data key="d5">10</data>
+    </node>
+    <node id="6bvsiUUz">
+      <data key="d0">Importance of an overarching workflow</data>
+      <data key="d1">- It is crucial to maintain a "holistic perspective" so everything that needs to be taken care of is in one place and can be processed in a standardized way
+- Having a simple, overarching and streamlined workflow in place helps to stay in control by focusing on the important things and being able to pick up tasks quickly where they are left off.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">RnpNCnXf</data>
+      <data key="d5">10</data>
+    </node>
+    <node id="d700Xe9w">
+      <data key="d0">Innovation is not a linear process</data>
+      <data key="d1">- The quest for innovation requires to constantly iterate between different tasks
+- The search for meaningful connections is a crucial part of any innovation processes (p. 114).
+- Any attempt to squeeze a non-linear process into a linear order only leads to problems and frustrations</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">RnpNCnXf</data>
+      <data key="d5">10</data>
+    </node>
+    <node id="onHn6c4S">
+      <data key="d0">Iterative abstraction / re-specification</data>
+      <data key="d1">- Innovation requires to combine and re-combine ideas, liberating them from their original context by means of an iterative process of abstraction and re-specification. (Ahrens, 2017, p. 123).
+- Abstraction from concrete situations and re-specification allows to apply ideas from one practical context into another.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">RnpNCnXf</data>
+      <data key="d5">10</data>
+    </node>
+    <node id="5WJqHcE5">
+      <data key="d0">Abstraction and scalability</data>
+      <data key="d1">Complexity increases when NSOs seek to mainstream data innovations beyond pilot projects run by a small team.  "This makes enforcing ETL best practices, upholding data quality, and standardizing workflows increasingly challenging." 
+
+Identifying and automating common ETL patterns into standard workflows allows to leverage the power of abstraction in order to address scalability challenges.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">HKijdzxQ</data>
+      <data key="d5">10</data>
+    </node>
+    <node id="QZ4e6WSS">
+      <data key="d0">Organization of data innovation</data>
+      <data key="d1">Success in data innovation depends to a large extent on the adequate organization of workflows for the practical implementation of new sources, technologies and methodologies. 
+
+It requires **breaking down the amorphous task of "data innovation" into  separable tasks**, which can be completed within reasonable time, and which are clearly connected to the delivery of specific, tangible outputs, and finally to the achievement of well-defined outcomes.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">11</data>
+    </node>
+    <node id="nBYBmeNa">
+      <data key="d0">Innovation: Plans vs structured workflows</data>
+      <data key="d1">- **Innovation requires flexibility**. Detailed plans often impose too much structure for open-ended research or innovation projects that require flexibility.  
+- **Innovation cannot be predetermined**: Initial ideas are necessarily vague and change when we put them into practice.
+- Accidental encounters make up the majority of what we learn
+- The challenge is to have **overarching workflows** that allow for new ideas and insights to be generated, tested, adapted and mainstreamed</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">RnpNCnXf</data>
+      <data key="d5">10</data>
+    </node>
+    <node id="oTbmWlt2">
+      <data key="d0">Mainstreaming data innovation projects</data>
+      <data key="d1">It is crucial to ensure that the objectives and scope of national data innovation projects fit with the priorities of National Strategies for the Development of Statistics, with the regular work programme of NSOs and with the overall institutional setting of the National Statistical system.
+
+For instance, there has to be a clear link between project outputs and SDG reporting platforms and VNR processes to ensure sustained demand from policy makers and other key stakeholders.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="eac4gaf6">
+      <data key="d0">Why workflows become complicated</data>
+      <data key="d1">- Workflows become clogged over time as we try to apply a variety of new approaches and techniques, each promising to make something easier or better, but which combined have the opposite effects.
+- When new techniques are used without regard to the overarching workflow, "nothing really fits together", every little step suddenly becomes its own project, and it becomes very difficult to get things done.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">RnpNCnXf</data>
+      <data key="d5">10</data>
+    </node>
+    <node id="nDxqu3EV">
+      <data key="d0">Lessons from the shipping container</data>
+      <data key="d1">Ahrens (2017) explains how the initial attempts to introduce the use of the shipping container --a very simple solution--failed as long as ship owners failed to change their infrastructure and routines and to recognize that what mattered was the entire transport chain, from packaging of goods at the point of production to their delivery at the final destination.
+
+&gt; It wasn’t just another way of shipping goods. It was a whole new way of doing business. 
+&gt;(Ahrens, 2017, p. 40) 
+
+Similarly, simple innovations in statistical production can only be mainstreamed if they are accompanied by necessary changes and adaptations along the whole data value chain.
+
+For example... (?)</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">RnpNCnXf</data>
+      <data key="d5">10</data>
+    </node>
+    <node id="XkfA6AFU">
+      <data key="d0">Exergonic vs endergonic workflows</data>
+      <data key="d1">Ahrens (2017) explains that workflows can be characterized as either "exergonic" (requiring constant addition of energy to keep them going) or "endergonic" (once triggered, they continue by themselves and even release energy).
+
+Good (endergonic) workflows turn into **virtuous cycles** where the experience of becoming better at what we do motivates us to take on the next task (Ahrens, 2017, p.53). 
+
+Such workflows need to include a **learning system** based on actionable **feedback loops**.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">RnpNCnXf</data>
+      <data key="d5">10</data>
+    </node>
+    <node id="OkCaKf6I">
+      <data key="d0">SDMX is the shipping container of official statistics</data>
+      <data key="d1">Paraphrasing https://trello.com/c/RnpNCnXf, "\[SDMX\] is the shipping container of the \[official statistics\] world.  Instead of having different \[mechanisms for the exchange of\] different \[datasets\], everything goes into the same \[multi-dimensional schema\] and is standardized into the same format. (...) Everything is streamlined towards one thing only: \[statistical data\] that can be \[easily exchanged with, and utilized by, users\].</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">10</data>
+    </node>
+    <node id="uhh1kRu3">
+      <data key="d0">Innovation starts with what you have</data>
+      <data key="d1">- Nobody ever starts from scratch. Innovation projects should start with what you *have*, and not with an unfounded idea about what the data, technology or methods that you are planning to acquire or develop might eventually provide.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">RnpNCnXf</data>
+      <data key="d5">10</data>
+    </node>
+    <node id="CHr0Qnj2">
+      <data key="d0">Prioritize already available data and technology resources</data>
+      <data key="d1">Data innovation projects should prioritize and maximize the use of data sources and tools that are already under the control of the NSO and other members of the National Statistical System.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">10</data>
+    </node>
+    <node id="1j2ClWxr">
+      <data key="d0">Understanding the how and the why</data>
+      <data key="d1">Only after we understand why and how new technologies and methods work, are we able to tweak them for our own needs.</data>
+      <data key="d2" />
+      <data key="d3">dEE3HyCw</data>
+      <data key="d4">RnpNCnXf</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="U3iX23IM">
+      <data key="d0">National ownership of data innovation projects</data>
+      <data key="d1">National ownership of data innovation projects requires local staff to have the ability and confidence to make the right choices regarding sources, technology and methods in real situations.
+
+Capacity development projects try to make learning easier for NSO staff by prearranging information, sorting it into modules, categories and themes, However, they achieve the opposite if they take away the opportunity to build meaningful connections to their needs and context.</data>
+      <data key="d2" />
+      <data key="d3">dEE3HyCw</data>
+      <data key="d4" />
+      <data key="d5">11</data>
+    </node>
+    <node id="DLdh6sOz">
+      <data key="d0">Nothing is more practical than a good theory</data>
+      <data key="d1">Facts need to "hang together on a latticework of theory" in order to provide  insights that can be used to systematically solve real-world problems.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">RnpNCnXf</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="zGHMrgZh">
+      <data key="d0">Capacity building and sustainability</data>
+      <data key="d1">One of the main objectives of capacity building is to enable local staff to become technically **self-reliant** and to gain **confidence** and a strong sense of **ownership**.
+
+Local staff should be able to understand and to explain to others not only the final outputs, but all aspects of the process, from beginning to end.
+
+Country officers need to be able to replicate and update the outputs on a regular basis by their own means.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="QGyxiutK">
+      <data key="d0">Key principles of data innovation projects</data>
+      <data key="d1">- Country ownership
+- Sustainability
+- Long-term relevance</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">11</data>
+    </node>
+    <node id="38O0h16q">
+      <data key="d0">Project champions</data>
+      <data key="d1">To be successful, data innovation projects need to identify champions willing to put their names behind them, who can mobilize resources and institutional support, as well as facilitate collaboration across different organizations.
+
+National champions are especially crucial to help broker collaboration with key government agencies and partners.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="3ETVkGDf">
+      <data key="d0">Total cost of ownership</data>
+      <data key="d1">The "total cost of ownership" is an estimate of the direct cost of developing and applying a particular system.  It includes:
+
+- Software/hardware costs
+- Operational costs (including maintenance of physical infrastructure)
+- Personnel costs (including hiring and training costs of both permanent and temporary staff)</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">11</data>
+    </node>
+    <node id="wFd1FvbC">
+      <data key="d0">Ensuring national ownership of data innovation projects</data>
+      <data key="d1">**Risk**: 
+External partners may be perceived by local teams as exerting too much ownership over the process
+
+**Mitigation**: 
+- A specific entity within each country (usually the NSO) should be identified and recognized as the **owner** of every data innovation project. 
+- This entity should be responsible to ensure the quality of outputs and should be willing to commit staff and invest resources in the project. 
+- The main **focal point** for every country project should be within that entity, and all inquiries should be referred to that focal point first. 
+- The first publication of all results should be done by the country, and publications by external partners should make reference to national publications</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="3jLAEhY0">
+      <data key="d0">Importance of funding from national governments</data>
+      <data key="d1">Over the long term, building institutional capacity requires government funding.
+
+Data innovation projects need to secure financial resources at the country level:
+
+- specific budget allocations
+- grants from external donors
+- shared resources from existing projects</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="CNiPnq0T">
+      <data key="d0">Long-term relevance of data innovation projects</data>
+      <data key="d1">**Risk:**
+Project outputs and the data sources, methods and technologies used to generate them can become quickly outdated, due to rapid social, economic, environmental or technological changes.
+
+**Mitigation**:
+
+- Setup a continuous maintenance programme to keep IT infrastructure and systems up to date (e.g., software updates)
+- Update and release new results as new data inputs become available</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="jwQ8qCBg">
+      <data key="d0">Loss of expertise through staff attrition</data>
+      <data key="d1">**Risk**: 
+
+Loss of expertise through staff attrition or turnover
+
+**Mitigation**: 
+
+- Maintain focus on institutional capacity rather than on individuals 
+- Promote knowledge sharing and team collaboration (e.g., working in pairs and peer reviews)</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="1k64R7UM">
+      <data key="d0">Policy relevance of data innovation projects</data>
+      <data key="d1">To ensure broad support to data innovation projects, it is crucial to identify specific elements in the policy process where the outputs of the project will provide immediate value.
+
+In order for the project to become part of the regular statistical production process, there most be a continuous search for new areas in the policy-making process that could benefit from it.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="J7uVnj8B">
+      <data key="d0">Data privacy issues in data innovation projects</data>
+      <data key="d1">Individual-records collected from surveys, censuses, administrative sources, and telecommunication providers, etc. are highly sensitive.  
+
+Data innovation projects that use any of these sources need to have data privacy and security protocols in place when linking records from different data sources through common identifiers of individuals, households, businesses or geographies. 
+
+This is fundamental to avoid any reputation damage and ensure that organization that owns the project is trusted by all stakeholders, thus being able to keep the project running in the long term.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="9h1AmchL">
+      <data key="d0">Establishing trust in results of data innovation projects</data>
+      <data key="d1">It is crucial to establish trust in the results of data innovation projects, particularly from key users such as policy and decision makers.
+
+The quality of estimation results "is only as good as the quality of the input data and the methodologies employed."  Therefore, the reliability of the sources and methods involved in data innovation projects is central to their widespread acceptance and use. 
+
+This highlights the importance of **transparent and participatory validation**:
+
+- Validate quality of data inputs
+- Validate methodology
+- Ensure that data production process are reproducible by independent reviewers
+- Check for internal and external consistency of results
+- Compare pre-existing users' perceptions with project results</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="hp8Foh4V">
+      <data key="d0">Capacity bottlenecks in data innovation projects</data>
+      <data key="d1">Common capacity bottlenecks in data innovation projects include:
+ 
+- Shortage of **facilities or equipment**
+- Gaps in technical **skills**
+- Lack of **staff time**
+- **Data quality** issues
+- Shortage of modern **software** tools</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="VG23wXyp">
+      <data key="d0">Hardware and software tools</data>
+      <data key="d1">Data innovation projects need to procure, setup and configure a number of hardware and software tools
+
+- Statistical software packages and libraries
+- Database management tools/environments
+- Data visualization tools
+- GIS tools</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">2</data>
+    </node>
+    <node id="Vmp2TR2i">
+      <data key="d0">Data engineering curriculum for official statisticians</data>
+      <data key="d1">Data innovation training curriculum for official statisticians should develop technical skills on the following topics:
+
+- **Data management** 
+    - Transcoding and record-linking methods
+    - Statistical disclosure control methods
+    - Data warehousing / ETL pipelines
+- **Programming and coding**
+    - Python and/or R
+    - SQL
+- **GIS**
+    - Feature extraction from EO imagery
+    - Map visualizatoins
+- **Statistical / econometric estimation methods**
+    - Population-density estimation methods
+    - Small-area estimation methods
+    - Crop-yield estimation methods
+    - Household consumption estimation methods
+    - Poverty maps</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">6</data>
+    </node>
+    <node id="Vk1c3Bjw">
+      <data key="d0">Allocation of staff to data innovation projects</data>
+      <data key="d1">Risk: Lack of time availability of skilled technical staff
+
+Mitigation: To be successful, any data innovation project must have dedicated staff, who must be freed up from other duties to participate in it (trainings, data analysis, coordination)</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="ptDLJoDD">
+      <data key="d0">Facilities and equipment requirements</data>
+      <data key="d1">Data innovation projects require adequate IT infrastructure (e.g. server capacity for computing and data storage, personal computers, as well as broadband internet connectivity) and physical facilities to conduct planning and training workshops, on-site collaboration sessions, etc.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="HZvkseXI">
+      <data key="d0">Delivering methodology as a blackbox</data>
+      <data key="d1">Some aspects of data innovation projects are highly technical.  There is a risk of "delivering methodology as a black box", making it impossible for local teams to maintain and update the project results in the long run.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="d3ru9pGK">
+      <data key="d0">Building data engineering skills in NSOs</data>
+      <data key="d1">The ability of NSOs to transform source data into valuable statistics is increasingly dependent on its data infrastructure and "data engineering" skills.
+
+Statisticians need to develop foundational data engineering skills in order to be able to mainstream new data sources, methods and technologies into regular statistical production programmes.
+
+Statisticians are rarely given analysis-ready data that can be directly used in statistical estimation and compilation.  One of the main challenges in official statistics is "to maintain statistical production pipelines". 
+
+Practical data innovation projects in official statistics require the ability to extract, organize and manipulate raw, unstructured source data, and to transform it into "clean" datasets that can be processed and analyzed using by standard software programmes and methodologies.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">4z5iFWrh</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="Cp7Quz8B">
+      <data key="d0">Capacity building in data engineering</data>
+      <data key="d1">Most capacity building in data innovation projects tends to focus on "high-level" skills such as artificial-intelligence, geoprocessing, or sophisticated estimation methodologies.   
+
+However, training workshops in data innovation usually neglect foundational data engineering skills, such as design of table schemas and practical implementation of data pipelines. 
+
+Although not every statistician needs to become an expert in data engineering, NSOs need to have sufficient in-house data engineering skills to address critical real-life challenges in mainstreaming their data innovation projects into their regular official statistics production processes.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">4z5iFWrh</data>
+      <data key="d5">6</data>
+    </node>
+    <node id="4RDMe98t">
+      <data key="d0">Technical experts</data>
+      <data key="d1">Data innovation projects need to identify and bring on board technical experts who are deeply knowledgeable of the data inputs, technologies, and methods being pursued, and with ample practical experience in their implementation in the field.
+
+It is particularly important to partner early on with local experts (e.g., form UN Country Teams, World Bank, government agencies and local universities and think tanks), in order to stimulate interest in the project outcomes and learn more about country needs and priorities.</data>
+      <data key="d2" />
+      <data key="d3">dEE3HyCw</data>
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="2j4pK36q">
+      <data key="d0">Key stakeholders in data innovation projects</data>
+      <data key="d1">In every data innovation project, it is very important to identify from the beginning a broad range of actual and potential stakeholders who may become involved in various phases of the project. This includes:
+
+- **Data providers** (line ministries, land administration, mobile phone companies, industry regulators, business associations, local governments, civil society organizations, space agencies, tech companies...)
+- **Technology providers** (e.g., national data centers, intl. organizations, private sector)
+- **Knowledge and expertise providers** (e.g., international organizations, research institutes, universities...)
+- **Funding providers** (e.g., ministry of planning/finance, intl. donors)
+- **Data users** (e.g., line ministries, parliament, local governments, international organizations, civil society organizations, intl. donors)
+
+It is also crucial to establish from the beginning both institutional and personal links with these stakeholders, and to involve them early on in the planning and execution of project activities.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="ilCtHTAx">
+      <data key="d0">Training for data innovation projects</data>
+      <data key="d1">Data innovation teams need to build a wide range of **data analysis and management** skills, including:
+- data engineering
+- data science
+- IT infrastructure engineering
+- statistical and econometric modeling
+- GIS analysis
+
+It also requires building **"soft" skills**, such as project management, fund-raising, and communication.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">6</data>
+    </node>
+    <node id="JiEdFdtg">
+      <data key="d0">Engaging local universities and training institutes</data>
+      <data key="d1">To promote sustainability and national ownership, data innovation project teams need to partner with local universities or training institutes in order to train analysts at national statistical offices and other government agencies.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">6</data>
+    </node>
+    <node id="Iaba3RcP">
+      <data key="d0">Key role of data warehouses</data>
+      <data key="d1">- "A data warehouse is a place where raw data is transformed and stored in query-able forms"
+- "Data warehouses are both the engine and the fuels that enable higher level analytics"
+- "Without...foundational warehouses, every activity related to data science becomes either too expensive or not scalable"</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">4z5iFWrh</data>
+      <data key="d5">9</data>
+    </node>
+    <node id="5W8MgJOp">
+      <data key="d0">Data Partitioning</data>
+      <data key="d1">**Data Partitioning** - breaking up data into independent, self-contained chunks, instead of storing in a single table or file.
+
+It is "a practice that enables more efficient querying and data backfilling" (Chang, 2018b)</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">oIarYHfE</data>
+      <data key="d5">9</data>
+    </node>
+    <node id="FOPuLnHI">
+      <data key="d0">ETL principles</data>
+      <data key="d1">Principles of good ETL pipelines:
+
+- Partition data tables
+- Load data incrementally
+- Use imutable data tables - so queries return the same result when run against the same business logic and time range
+- Parameterize backfilling logic
+- Run early and frequent data checks: Write data into a staging table first, validate data quality, and only then push to final production table
+- Build alerts and monitoring system</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">oIarYHfE</data>
+      <data key="d5">9</data>
+    </node>
+    <node id="CvXRU020">
+      <data key="d0">Source data warehouse</data>
+      <data key="d1">In most situations, source data are collected and analyzed by many different government agencies and external organizataions.  Thus, as part of a data innovation project, it is necessary to establish a data warehouse as a single point of entry providing access to **analysis-ready, geo-referenced data inputs** from multiple sources, organized according to a simple and commonly agreed taxonomy, such as the **fundamental geospatial data themes** 
+
+A lot of work may be required to "condition" the different data inputs in order to make them ready for use and analysis, including the adoption of data **interoperability standards and best practices** across different data sources and systems.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">2</data>
+    </node>
+    <node id="UHxZBMU2">
+      <data key="d0">Data Modelling</data>
+      <data key="d1">**Data Modeling** is "a design process where one carefully defines table schemas and data relations to capture business metrics and dimensions". (Chang, 2018b)
+
+Data modelling is about optimizing data structures for analytic purposes.  It often involves sacrificing data normalization (i.e., accepting more data redundancy and more complex ETL pipelines to maintain) in order to facilitate data queries from tables where metrics and dimensions are already pre-joined.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">oIarYHfE</data>
+      <data key="d5">9</data>
+    </node>
+    <node id="6OomPFuc">
+      <data key="d0">Star schema</data>
+      <data key="d1">Data warehouses generally implement a simple **star schema**, which consists of normalized fact and dimension tables that can be easily used to build denormalized tables for analytic purposes.
+
+A star schema design helps balance between ETL maintainability and ease of analytics.
+
+*Fact tables* - Contain the business metrics of interest
+*Dimension tables* - Contain slowly changing attributes (often organized in a hierarchical structure) that can be joined with the fact tables</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">oIarYHfE</data>
+      <data key="d5">9</data>
+    </node>
+    <node id="3BmAWMzw">
+      <data key="d0">Changing data warehouse dimensions over time</data>
+      <data key="d1">In order to model changing dimensions in functional data warehouses without mutating data, one could use a collection of "dimension snapshots", whit each snapshot containing the full dimensions available at a specific point of time.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">fj461XsQ</data>
+      <data key="d5">9</data>
+    </node>
+    <node id="n3KkkMdF">
+      <data key="d0">Mainstreaming projects:  sustainability</data>
+      <data key="d1">When data innovation projects are viewed only as ad hoc activities, it is very difficult to secure long-term resources.   To be sustainable, data innovation projects need to be aligned with over-arching strategic plans and be embedded within the organization's existing multi-year programme of activities. This includes ensuring that the project activities are funded through regular budget sources and that they are adequately staffed over the long term.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">11</data>
+    </node>
+    <node id="5u1sLb2p">
+      <data key="d0">Objectives of data innovation for Sustainable Development</data>
+      <data key="d1">- Data innovation projects should enable countries to *regularly* produce better, more timely and more disaggregated data to inform policies and decisions that contribute to achieving the 2030 Agenda for Sustainable Development
+- Measures of success: Data is available and openly accessible online to policy and decision makers in easy-to-use formats and presentations.
+  - Frequency (at least once a year)
+  - Time lag (less than 2 years)
+  - Geographic coverage (national coverage)
+  - Geographic disaggregation (at least 3rd level)
+  - Coverage of specific population groups (women, disabled, youth, elderly)</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">1</data>
+    </node>
+    <node id="JExDAHlM">
+      <data key="d0">Simplicity is paramount</data>
+      <data key="d1">- Big transformations start with simple ideas.  What matters is how well these simple ideas fit in the overall workflows of a system or organization.
+- To avoid undesired side effects, it is important to focus on small units of work.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">RnpNCnXf</data>
+      <data key="d5">9</data>
+    </node>
+    <node id="vLPsC8l0">
+      <data key="d0">Pure tasks</data>
+      <data key="d1">- **Pure tasks** produce the same result every time they are run.
+- **Overwrite approach**: "Re-executing a pure task with the same input parameters should overwrite any previous output that could have been left out from a previous run of the same task."
+- Tasks can become "purified" by breaking them down into smaller tasks, each of which targets a single output.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">fj461XsQ</data>
+      <data key="d5">9</data>
+    </node>
+    <node id="QRWAHOzF">
+      <data key="d0">Working in pairs to ensure sustainable skill building</data>
+      <data key="d1">In the face of high staff turnover rates, organizations face the challenge of retaining over the long term the skills acquired during training activities and hands-on implementation activities. 
+
+To address this challenge, a good practice is to ensure that in every activity related to the implementation of a project feature, at least two team members take the lead and are jointly responsible for the deliverable, and that they work via pairing and review each other's work,</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">11</data>
+    </node>
+    <node id="ttc01lbK">
+      <data key="d0">Defining data disaggregation priorities</data>
+      <data key="d1">The definition of national data priorities include the definition of priority dimensions for which disaggregated data needs to be available:
+
+- Key population groups (e.g., women, urban/rural population, indigenous groups, youth, elderly population, people living with disabilities, ...)
+- Required level of granularity in geographic disaggregation</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">1</data>
+    </node>
+    <node id="jt99xW61">
+      <data key="d0">Objectives of Data4Now country projects</data>
+      <data key="d1">Country projects supported as part of the Data4Now initiative aim to provide timely and disaggregated information needed by policy and decision makers to better design development strategies and policy programmes that 
+
+  - reduce inequalities
+  - improve public service delivery
+  - ...
+
+This includes producing nowcasting and small-area estimates on key topics such as poverty, food security, education, health, disaster-risk resilience, etc. 
+
+It also requires producing analytic data communication and visualization tools that enable users to explore patterns and correlations across different variables and over time and geography to obtain actionable insights. 
+
+For instance: "How are drought patterns and commodity prices correlated with crop yields, poverty estimates, and population movements?"</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">1</data>
+    </node>
+    <node id="Cr014GcV">
+      <data key="d0">Fundamental Geospatial Data Themes</data>
+      <data key="d1">The 14 Global Fundamental Geospatial Data Themes adopted by UNGGIM at its seventh session under decision 7/104 provide a "taxonomy" of the geospatial data assets that are needed to enable "the measurement, monitoring and management of sustainable development in a consistent way over time and to facilitate evidence-based decision making and policy-making." 
+
+They can be used to facilitate global geospatial information management and the implementation of the integrated geospatial information framework.
+
+1. Global geodetic reference frame* 
+2. Addresses
+3. Buildings and settlements
+4. Elevation and depth
+5. Functional areas
+6. Geographic names
+7. Geology and soils
+8. Land cover and land use
+9. Land parcels
+10. Orthoimagery
+11. Physical infrastructure
+12. Population distribution (including population characteristics)
+13. Transport networks
+14. Water
+15. Economy*
+
+(*) Additional theme not included in the 14 GFGDT</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">ewmJWk6r</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="1P7GAwhy">
+      <data key="d0">Sustainable access to source data</data>
+      <data key="d1">To be sustainable, producers of statistics need to have the capacity to regularly access to the necessary input data from external sources.
+
+This requires:
+- Effective legal data exchange arrangements 
+- Adequate incentives and business models
+- Appropriate technical data exchange standards and protocols
+- Good data exchange infrastructure, including connectivity and bandwidth.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">11</data>
+    </node>
+    <node id="nqqQlCkb">
+      <data key="d0">Poverty maps production: data sources</data>
+      <data key="d1">The production of small-area poverty estimates usually relies on the following two major data sources of household welfare:
+
+1. Detailed household surveys which collect a measure of welfare (typically consumption per capita)
+2. A national census or large national survey that includes a significant share of the country's population
+
+Other data sources that may be used to approximate individual welfare (in approximately real time):
+
+- Individual consumption of mobile phone services
+- Measures of mobility (e.g., derived from mobile phone records)
+- Social network metrics (e.g., derived from social media or mobile phone records)
+- Financial transactions (e.g., derived from mobile phone or credit card records)</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="vWWASKo8">
+      <data key="d0">Additional geo-referenced information used in poverty estimation</data>
+      <data key="d1">- Points of service delivery (e.g., schools, health centers, boreholes...) and their attributes (e.g., number of beds in hospitals; number of health personnel)
+- Networks of infrastructure (e.g., roads, electricity, water...) and their attributes (e.g., condition/quality of roads)
+- Natural features (e.g., elevation, agroclimatic characteristics...)</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">2</data>
+    </node>
+    <node id="njfyBuRv">
+      <data key="d0">Challenges in household survey data</data>
+      <data key="d1">Household surveys provide rich information on the living standards and other characteristics of a sample of households.  However, their sample size is typically not large enough to obtain reliable estimates of poverty levels below the first sub-national administrative unit.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="exFglBfe">
+      <data key="d0">Challenges in using mobile phone records</data>
+      <data key="d1">- Mobile phone data are typically biased and not representative of the entire population of interest, due to factors such as unequal phone penetration and differences in market share by various carriers
+- Working with mobile phone records requires additional privacy protection measures.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="Lr60zbkO">
+      <data key="d0">Understanding multiple sources of data</data>
+      <data key="d1">No single individual (or organization) is ever familiar with all the attributes and caveats of all the data inputs that are required in a data innovation project.   Therefore, it is crucial to involve from the beginning all relevant experts who have helped produced various data inputs.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="bs0lGShz">
+      <data key="d0">Geo-referenced data</data>
+      <data key="d1">Geo-referenced data provides identifiers of geospatial location for each individual observation
+
+Defining common geographic identifiers allows different datasets to be linked and analyzed together.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">XN9jt6q8</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="UejoKjiC">
+      <data key="d0">User engagement in data innovation projects</data>
+      <data key="d1">It is important to build strong ties of collaboration between technical team and the user community. Representatives from key user groups need to be invited to be part of all project activities, from the planning stage on.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">2</data>
+    </node>
+    <node id="duUZSb3j">
+      <data key="d0">Collaborative data innovation projects</data>
+      <data key="d1">Collaboration across multiple organizations allows data innovation projects to draw a wide range of data assets, skills and resources. 
+
+Data innovation projects that seek to produce nowcasting or small-area estimates require the collaboration of multiple government agencies and partners, with multi-stakeholder, multi-disciplinary teams working together to process ans analyze different data inputs.
+
+It is therefore crucial to establish and strengthen collaboration across different organizations towards producing a common output and achieving a shared outcome.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="2GTwGKsm">
+      <data key="d0">ETL Frameworks</data>
+      <data key="d1">Developing and implementing ETL (extract-tranform-load) processes is "time-consuming, brittle, and often unrewarding" (Beauchemin, 2018)
+
+The data flows of real-life statistical production processes can be very complex, and ETL frameworks help address common problems in building ETL pipelines:
+
+- Documentation - Succinctly describe the data flow
+- Monitoring - Track the progress of long running processes and alert when errors arise
+- Backfilling - Ability to re-process historical data</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">fj461XsQ,,4z5iFWrh</data>
+      <data key="d5">9</data>
+    </node>
+    <node id="cTjLfkWN">
+      <data key="d0">How to improve interoperability across data sources</data>
+      <data key="d1">To make various data sources ready-to-use, it is necessary to transform them to ensure they are interoperable. This includes:
+
+- Use of canonical data models
+- Geo-reference all data inputs using common boundaries and use consistent location-identification codes 
+- Use common vocabularies, classifications and code lists
+- Develop of standardized API documentation</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">2</data>
+    </node>
+    <node id="bR2Woaf4">
+      <data key="d0">Types of source data required for nowcasting</data>
+      <data key="d1">Nowcasting is about producing "near real-time" estimates.  This means being able to project in over time the values of variables measured in the past.
+
+This in turn requires to leverage any "panel components" in input data form household surveys, administrative records, etc., which track the same individuals, households or statistical units with repeated measurement of the same variable(s) at different moments in time.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="rKAEb7YK">
+      <data key="d0">Official statistics is there for the truth</data>
+      <data key="d1">(paraphrasing Alexander von Humboldt):
+
+Official statistics is only there for the truth, and truth is always a public matter.  Everything within official statistics aims at some kind of publication.  Every statistical publication is a public claim on truth.</data>
+      <data key="d2" />
+      <data key="d3">falIut3E</data>
+      <data key="d4" />
+      <data key="d5">2</data>
+    </node>
+    <node id="1cHc8MiO">
+      <data key="d0">Reproducibility of processes</data>
+      <data key="d1">The ability to reproduce processes is crucial to generate trust in their outputs.
+
+Reproducibility requires immutable data and versioned logic (adoption of functional programming).</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">fj461XsQ</data>
+      <data key="d5">9</data>
+    </node>
+    <node id="tZWRLOUI">
+      <data key="d0">Elements of a results communication strategy</data>
+      <data key="d1">- Identify potential **users** and how the results of an innovation project help them achieve their goals.
+- Determine the **types of information products / formats / media** that are best suited to the needs of these users
+- Identify / develop **dissemination outlets** that can effectively bring the product of the project to the intended users.
+- Develop a clear policy specifying the terms under which users can access and utilize of both the results of the project and the underlying data inputs
+- Develop complete, concise and clear user documentation explaining the methodology and providing guidance on the appropriate interpretation of the results
+- Make all results available in all the languages in which the key user groups work (e.g., all languages in which the government works)</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">1</data>
+    </node>
+    <node id="RHCUOmoR">
+      <data key="d0">Use of EO in poverty mapping</data>
+      <data key="d1">Poverty mapping projects typically use geospatial datasets derived from high-resolution EO imagery, including:
+
+- Land cover
+- Land use
+- Objects (cars, buildings, ...)
+- Night-time lights
+- Road networks
+- ...</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">UCi2QXBJ</data>
+      <data key="d5">2</data>
+    </node>
+    <node id="v0j3xMCw">
+      <data key="d0">Functional programming</data>
+      <data key="d1">(https://en.wikipedia.org/wiki/Functional_programming)
+
+
+- A programming paradigm "that treats computation as the evaluation of mathematical functions", avoiding "changing state and mutable data". 
+- The output of a function depends only on the arguments passed to it
+- This approach makes it easier to understand the code and to predict outputs
+- Functions can be written and tested in isolation \(without having to understand external context\)
+- Through immutable data and versioned logic, functional programming allows to **insulate logic changes from data changes**, thus enhancing **reproducibility of results**</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">fj461XsQ</data>
+      <data key="d5">9</data>
+    </node>
+    <node id="YOp0ve5T">
+      <data key="d0">Changing data warehouse logic over time</data>
+      <data key="d1">Changes in data warehouse logic over time should be either 
+- expressed with data (in the form of "parameter tables") using effective dates
+- captured in source control, so they can applied conditionally, allowing to build the full state of the data warehouse throughout all time periods, or
+
+Beauchemin (2018) illustrates this with the example of introducing a change in the way taxes are calculated in year t.  If a users "back-fills" data for year t-1, the change in tax calculation method should not be applied.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">fj461XsQ</data>
+      <data key="d5">9</data>
+    </node>
+    <node id="Jwlw5emQ">
+      <data key="d0">A persistent and immutable staging area</data>
+      <data key="d1">By accumulating and persisting all source data in a stating area (keeping it forever unchanged) one can have shorter retention policy on derived tables, "knowing that it’s possible to backfill historical data at will."</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">fj461XsQ</data>
+      <data key="d5">9</data>
+    </node>
+    <node id="2fx14QVS">
+      <data key="d0">Representing ETL jobs as Directed Acyclic Graphs (DAG)</data>
+      <data key="d1">It is often useful to visualize complex ETL data flows using a directed acyclic graph, where each node corresponds to a task (which only needs to be performed once), and arrows represent dependencies between tasks.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">oIarYHfE</data>
+      <data key="d5">9</data>
+    </node>
+    <node id="bay5lBgW">
+      <data key="d0">Need for crisis management skills</data>
+      <data key="d1">The current situation demands strong crisis management skills and expertise, and agility in planning, designing and implementing innovative approaches to carry out critical statistical operations.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4">vh5QhUfR</data>
+      <data key="d5">5</data>
+    </node>
+    <node id="wiYBU1Oc">
+      <data key="d0">Responsibilities of the project coordinator in a cross-functional team</data>
+      <data key="d1">- Create and track against a project plan
+- Drive team members towards the completion of milestones and project deliverables
+- Budget project resources and expenditures
+- Manage risks
+- Find ways to prevent time-sharing overload of team members between the project and their regular functional duties.</data>
+      <data key="d2" />
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">3</data>
+    </node>
+    <edge source="NwHayaCP" target="uIHekGyz" />
+    <edge source="NwHayaCP" target="GH8W0S4g" />
+    <edge source="uIHekGyz" target="V2qxeWls" />
+    <edge source="uIHekGyz" target="GH8W0S4g" />
+    <edge source="uIHekGyz" target="SLgwJQDz" />
+    <edge source="GH8W0S4g" target="rJKUGkhR" />
+    <edge source="zPySth0x" target="V2qxeWls" />
+    <edge source="zPySth0x" target="rJKUGkhR" />
+    <edge source="rJKUGkhR" target="SLgwJQDz" />
+    <edge source="rJKUGkhR" target="bawDrRBv" />
+    <edge source="rJKUGkhR" target="kSY5JM8j" />
+    <edge source="rJKUGkhR" target="Ov1RUbvE" />
+    <edge source="SLgwJQDz" target="bawDrRBv" />
+    <edge source="bawDrRBv" target="kSY5JM8j" />
+    <edge source="ClFwmtgA" target="iJY1iH4F" />
+    <edge source="ClFwmtgA" target="etUj8mX6" />
+    <edge source="ClFwmtgA" target="3c7dZcB6" />
+    <edge source="iJY1iH4F" target="qpy6M6vh" />
+    <edge source="iJY1iH4F" target="etUj8mX6" />
+    <edge source="etUj8mX6" target="tltgpLsL" />
+    <edge source="etUj8mX6" target="3c7dZcB6" />
+    <edge source="etUj8mX6" target="lEHhU8Ma" />
+    <edge source="etUj8mX6" target="pXxz1MHR" />
+    <edge source="3c7dZcB6" target="wFd1FvbC" />
+    <edge source="3c7dZcB6" target="QJsx3KmY" />
+    <edge source="3c7dZcB6" target="9h1AmchL" />
+    <edge source="3c7dZcB6" target="JExDAHlM" />
+    <edge source="3c7dZcB6" target="tZWRLOUI" />
+    <edge source="qpy6M6vh" target="tltgpLsL" />
+    <edge source="qpy6M6vh" target="bs0lGShz" />
+    <edge source="qpy6M6vh" target="ttc01lbK" />
+    <edge source="qpy6M6vh" target="pXxz1MHR" />
+    <edge source="tltgpLsL" target="pXxz1MHR" />
+    <edge source="tltgpLsL" target="6WFYziDD" />
+    <edge source="tltgpLsL" target="cTjLfkWN" />
+    <edge source="pXxz1MHR" target="cTjLfkWN" />
+    <edge source="pXxz1MHR" target="bs0lGShz" />
+    <edge source="6WFYziDD" target="yHy01yYb" />
+    <edge source="6WFYziDD" target="cTjLfkWN" />
+    <edge source="6WFYziDD" target="Lr60zbkO" />
+    <edge source="PjMcjUgb" target="1hLRzYSe" />
+    <edge source="PjMcjUgb" target="88RTR3eB" />
+    <edge source="PjMcjUgb" target="mmwn1oEU" />
+    <edge source="1hLRzYSe" target="J4RjLkh4" />
+    <edge source="1hLRzYSe" target="AP2e8YNz" />
+    <edge source="1hLRzYSe" target="Lb8FlQSj" />
+    <edge source="1hLRzYSe" target="oWg5LrNe" />
+    <edge source="1hLRzYSe" target="S1rUnyfS" />
+    <edge source="1hLRzYSe" target="jHpeljkZ" />
+    <edge source="1hLRzYSe" target="ofQx7aBs" />
+    <edge source="J4RjLkh4" target="mmwn1oEU" />
+    <edge source="J4RjLkh4" target="88RTR3eB" />
+    <edge source="J4RjLkh4" target="5woerok1" />
+    <edge source="J4RjLkh4" target="duUZSb3j" />
+    <edge source="J4RjLkh4" target="Vk1c3Bjw" />
+    <edge source="J4RjLkh4" target="wiYBU1Oc" />
+    <edge source="AP2e8YNz" target="Lb8FlQSj" />
+    <edge source="AP2e8YNz" target="oWg5LrNe" />
+    <edge source="AP2e8YNz" target="S1rUnyfS" />
+    <edge source="AP2e8YNz" target="MMjEeFha" />
+    <edge source="AP2e8YNz" target="jHpeljkZ" />
+    <edge source="AP2e8YNz" target="bHaKr9ga" />
+    <edge source="AP2e8YNz" target="tZWRLOUI" />
+    <edge source="AP2e8YNz" target="ofQx7aBs" />
+    <edge source="mmwn1oEU" target="5woerok1" />
+    <edge source="mmwn1oEU" target="QJsx3KmY" />
+    <edge source="mmwn1oEU" target="Vk1c3Bjw" />
+    <edge source="mmwn1oEU" target="duUZSb3j" />
+    <edge source="mmwn1oEU" target="wiYBU1Oc" />
+    <edge source="Lb8FlQSj" target="MMjEeFha" />
+    <edge source="Lb8FlQSj" target="h1lCewmo" />
+    <edge source="oWg5LrNe" target="jHpeljkZ" />
+    <edge source="oWg5LrNe" target="bHaKr9ga" />
+    <edge source="oWg5LrNe" target="i54AuJAT" />
+    <edge source="jHpeljkZ" target="S1rUnyfS" />
+    <edge source="jHpeljkZ" target="i54AuJAT" />
+    <edge source="jHpeljkZ" target="bHaKr9ga" />
+    <edge source="jHpeljkZ" target="h1lCewmo" />
+    <edge source="bHaKr9ga" target="i54AuJAT" />
+    <edge source="bHaKr9ga" target="xFkKBQHT" />
+    <edge source="bHaKr9ga" target="i7m8d4YQ" />
+    <edge source="i54AuJAT" target="xFkKBQHT" />
+    <edge source="i54AuJAT" target="i54AuJAT" />
+    <edge source="i54AuJAT" target="ofQx7aBs" />
+    <edge source="i54AuJAT" target="4INbWGw6" />
+    <edge source="xFkKBQHT" target="Tlb9tDLU" />
+    <edge source="Tlb9tDLU" target="jj13yRW9" />
+    <edge source="Tlb9tDLU" target="h1lCewmo" />
+    <edge source="4INbWGw6" target="h1lCewmo" />
+    <edge source="h1lCewmo" target="53FNlsMn" />
+    <edge source="h1lCewmo" target="P43SdKCs" />
+    <edge source="h1lCewmo" target="QJsx3KmY" />
+    <edge source="jj13yRW9" target="mRaNOol6" />
+    <edge source="jj13yRW9" target="qvOtxtiK" />
+    <edge source="jj13yRW9" target="SGskQjpC" />
+    <edge source="jj13yRW9" target="xUr89DOT" />
+    <edge source="jj13yRW9" target="5dUHywzA" />
+    <edge source="jj13yRW9" target="URGTzbbu" />
+    <edge source="jj13yRW9" target="mRUJpSCa" />
+    <edge source="53FNlsMn" target="P43SdKCs" />
+    <edge source="53FNlsMn" target="ilCtHTAx" />
+    <edge source="P43SdKCs" target="CNiPnq0T" />
+    <edge source="P43SdKCs" target="Vmp2TR2i" />
+    <edge source="P43SdKCs" target="ilCtHTAx" />
+    <edge source="P43SdKCs" target="JiEdFdtg" />
+    <edge source="QJsx3KmY" target="kCnh0WC4" />
+    <edge source="QJsx3KmY" target="5Y5WIm31" />
+    <edge source="QJsx3KmY" target="QZ4e6WSS" />
+    <edge source="QJsx3KmY" target="U3iX23IM" />
+    <edge source="QJsx3KmY" target="Vmp2TR2i" />
+    <edge source="QJsx3KmY" target="JiEdFdtg" />
+    <edge source="QJsx3KmY" target="5u1sLb2p" />
+    <edge source="QJsx3KmY" target="9h1AmchL" />
+    <edge source="QJsx3KmY" target="Cr014GcV" />
+    <edge source="QJsx3KmY" target="2j4pK36q" />
+    <edge source="QJsx3KmY" target="VG23wXyp" />
+    <edge source="QJsx3KmY" target="yHy01yYb" />
+    <edge source="QJsx3KmY" target="CvXRU020" />
+    <edge source="QJsx3KmY" target="1P7GAwhy" />
+    <edge source="QJsx3KmY" target="XVq7u8bY" />
+    <edge source="mRaNOol6" target="nVgnq2cz" />
+    <edge source="5gf8Ujfa" target="TsYS8WO6" />
+    <edge source="5gf8Ujfa" target="oRq6vy7w" />
+    <edge source="5gf8Ujfa" target="smZXjmav" />
+    <edge source="TsYS8WO6" target="A23mYrDu" />
+    <edge source="TsYS8WO6" target="MfTvaMIL" />
+    <edge source="A23mYrDu" target="vIDWWZjJ" />
+    <edge source="A23mYrDu" target="87In6UYV" />
+    <edge source="MfTvaMIL" target="qEgpEYM3" />
+    <edge source="MfTvaMIL" target="MfTvaMIL" />
+    <edge source="MfTvaMIL" target="akoVqiRK" />
+    <edge source="oRq6vy7w" target="qvOtxtiK" />
+    <edge source="oRq6vy7w" target="87In6UYV" />
+    <edge source="qvOtxtiK" target="rps4c5Jo" />
+    <edge source="SGskQjpC" target="xUr89DOT" />
+    <edge source="nVgnq2cz" target="mRUJpSCa" />
+    <edge source="mRUJpSCa" target="URGTzbbu" />
+    <edge source="mRUJpSCa" target="rps4c5Jo" />
+    <edge source="mRUJpSCa" target="BQwQetnc" />
+    <edge source="87In6UYV" target="xUr89DOT" />
+    <edge source="87In6UYV" target="rps4c5Jo" />
+    <edge source="xUr89DOT" target="bay5lBgW" />
+    <edge source="5dUHywzA" target="bay5lBgW" />
+    <edge source="BQwQetnc" target="88RTR3eB" />
+    <edge source="BQwQetnc" target="LaFIh4fq" />
+    <edge source="BQwQetnc" target="akoVqiRK" />
+    <edge source="lh9J280B" target="qEgpEYM3" />
+    <edge source="qEgpEYM3" target="ulLdtnHy" />
+    <edge source="qEgpEYM3" target="LaFIh4fq" />
+    <edge source="qEgpEYM3" target="7dELQecN" />
+    <edge source="smZXjmav" target="kfu8nyho" />
+    <edge source="smZXjmav" target="akoVqiRK" />
+    <edge source="kfu8nyho" target="7dELQecN" />
+    <edge source="ulLdtnHy" target="3ONs7aFt" />
+    <edge source="66kUhExT" target="Gjve1WgL" />
+    <edge source="66kUhExT" target="AMu8kLNJ" />
+    <edge source="66kUhExT" target="8B67V92I" />
+    <edge source="66kUhExT" target="1i1bh7AA" />
+    <edge source="66kUhExT" target="Yx0ZUlq2" />
+    <edge source="Gjve1WgL" target="1i1bh7AA" />
+    <edge source="AMu8kLNJ" target="yHy01yYb" />
+    <edge source="AMu8kLNJ" target="AMu8kLNJ" />
+    <edge source="8B67V92I" target="Yx0ZUlq2" />
+    <edge source="8B67V92I" target="1i1bh7AA" />
+    <edge source="Yx0ZUlq2" target="1i1bh7AA" />
+    <edge source="yHy01yYb" target="hp8Foh4V" />
+    <edge source="yHy01yYb" target="Lr60zbkO" />
+    <edge source="yHy01yYb" target="cTjLfkWN" />
+    <edge source="yHy01yYb" target="9h1AmchL" />
+    <edge source="lEHhU8Ma" target="Vmp2TR2i" />
+    <edge source="lEHhU8Ma" target="UHxZBMU2" />
+    <edge source="lEHhU8Ma" target="2GTwGKsm" />
+    <edge source="lEHhU8Ma" target="FOPuLnHI" />
+    <edge source="lEHhU8Ma" target="CvXRU020" />
+    <edge source="lEHhU8Ma" target="2fx14QVS" />
+    <edge source="5Y5WIm31" target="vlQ3wkHh" />
+    <edge source="5Y5WIm31" target="XVq7u8bY" />
+    <edge source="vlQ3wkHh" target="jt99xW61" />
+    <edge source="XVq7u8bY" target="nqqQlCkb" />
+    <edge source="Z12lJnJp" target="pS33XHDA" />
+    <edge source="pS33XHDA" target="UXewQVNc" />
+    <edge source="pS33XHDA" target="3cbc3DFd" />
+    <edge source="pS33XHDA" target="o2aK159Q" />
+    <edge source="pS33XHDA" target="6bvsiUUz" />
+    <edge source="UXewQVNc" target="ZyufNNxO" />
+    <edge source="ZyufNNxO" target="FlUbxxop" />
+    <edge source="f6AE5k9M" target="o2aK159Q" />
+    <edge source="6bvsiUUz" target="nBYBmeNa" />
+    <edge source="6bvsiUUz" target="eac4gaf6" />
+    <edge source="6bvsiUUz" target="nDxqu3EV" />
+    <edge source="6bvsiUUz" target="XkfA6AFU" />
+    <edge source="d700Xe9w" target="onHn6c4S" />
+    <edge source="d700Xe9w" target="nBYBmeNa" />
+    <edge source="onHn6c4S" target="5WJqHcE5" />
+    <edge source="QZ4e6WSS" target="nBYBmeNa" />
+    <edge source="QZ4e6WSS" target="oTbmWlt2" />
+    <edge source="nBYBmeNa" target="uhh1kRu3" />
+    <edge source="nBYBmeNa" target="XkfA6AFU" />
+    <edge source="nBYBmeNa" target="eac4gaf6" />
+    <edge source="oTbmWlt2" target="U3iX23IM" />
+    <edge source="oTbmWlt2" target="CNiPnq0T" />
+    <edge source="oTbmWlt2" target="d3ru9pGK" />
+    <edge source="oTbmWlt2" target="n3KkkMdF" />
+    <edge source="oTbmWlt2" target="5u1sLb2p" />
+    <edge source="eac4gaf6" target="JExDAHlM" />
+    <edge source="eac4gaf6" target="XkfA6AFU" />
+    <edge source="nDxqu3EV" target="OkCaKf6I" />
+    <edge source="uhh1kRu3" target="CHr0Qnj2" />
+    <edge source="1j2ClWxr" target="U3iX23IM" />
+    <edge source="1j2ClWxr" target="DLdh6sOz" />
+    <edge source="1j2ClWxr" target="zGHMrgZh" />
+    <edge source="1j2ClWxr" target="HZvkseXI" />
+    <edge source="U3iX23IM" target="QGyxiutK" />
+    <edge source="U3iX23IM" target="3ETVkGDf" />
+    <edge source="U3iX23IM" target="wFd1FvbC" />
+    <edge source="U3iX23IM" target="zGHMrgZh" />
+    <edge source="zGHMrgZh" target="CNiPnq0T" />
+    <edge source="zGHMrgZh" target="HZvkseXI" />
+    <edge source="zGHMrgZh" target="QGyxiutK" />
+    <edge source="zGHMrgZh" target="d3ru9pGK" />
+    <edge source="zGHMrgZh" target="ilCtHTAx" />
+    <edge source="zGHMrgZh" target="QRWAHOzF" />
+    <edge source="QGyxiutK" target="wFd1FvbC" />
+    <edge source="QGyxiutK" target="CNiPnq0T" />
+    <edge source="QGyxiutK" target="3jLAEhY0" />
+    <edge source="QGyxiutK" target="n3KkkMdF" />
+    <edge source="QGyxiutK" target="1P7GAwhy" />
+    <edge source="38O0h16q" target="38O0h16q" />
+    <edge source="38O0h16q" target="2j4pK36q" />
+    <edge source="wFd1FvbC" target="3jLAEhY0" />
+    <edge source="CNiPnq0T" target="jwQ8qCBg" />
+    <edge source="CNiPnq0T" target="1k64R7UM" />
+    <edge source="jwQ8qCBg" target="QRWAHOzF" />
+    <edge source="J7uVnj8B" target="9h1AmchL" />
+    <edge source="9h1AmchL" target="rKAEb7YK" />
+    <edge source="9h1AmchL" target="1cHc8MiO" />
+    <edge source="9h1AmchL" target="UejoKjiC" />
+    <edge source="hp8Foh4V" target="VG23wXyp" />
+    <edge source="hp8Foh4V" target="Vmp2TR2i" />
+    <edge source="hp8Foh4V" target="Vk1c3Bjw" />
+    <edge source="hp8Foh4V" target="ptDLJoDD" />
+    <edge source="Vmp2TR2i" target="Cp7Quz8B" />
+    <edge source="Vmp2TR2i" target="ilCtHTAx" />
+    <edge source="Vmp2TR2i" target="JiEdFdtg" />
+    <edge source="Vmp2TR2i" target="Iaba3RcP" />
+    <edge source="4RDMe98t" target="2j4pK36q" />
+    <edge source="2j4pK36q" target="UejoKjiC" />
+    <edge source="ilCtHTAx" target="JiEdFdtg" />
+    <edge source="Iaba3RcP" target="CvXRU020" />
+    <edge source="Iaba3RcP" target="6OomPFuc" />
+    <edge source="5W8MgJOp" target="FOPuLnHI" />
+    <edge source="FOPuLnHI" target="Jwlw5emQ" />
+    <edge source="CvXRU020" target="Cr014GcV" />
+    <edge source="CvXRU020" target="cTjLfkWN" />
+    <edge source="CvXRU020" target="bR2Woaf4" />
+    <edge source="UHxZBMU2" target="6OomPFuc" />
+    <edge source="6OomPFuc" target="3BmAWMzw" />
+    <edge source="3BmAWMzw" target="YOp0ve5T" />
+    <edge source="3BmAWMzw" target="v0j3xMCw" />
+    <edge source="5u1sLb2p" target="ttc01lbK" />
+    <edge source="5u1sLb2p" target="jt99xW61" />
+    <edge source="JExDAHlM" target="vLPsC8l0" />
+    <edge source="vLPsC8l0" target="1cHc8MiO" />
+    <edge source="Cr014GcV" target="RHCUOmoR" />
+    <edge source="nqqQlCkb" target="vWWASKo8" />
+    <edge source="nqqQlCkb" target="njfyBuRv" />
+    <edge source="nqqQlCkb" target="exFglBfe" />
+    <edge source="nqqQlCkb" target="Lr60zbkO" />
+    <edge source="nqqQlCkb" target="RHCUOmoR" />
+    <edge source="Lr60zbkO" target="bR2Woaf4" />
+    <edge source="Lr60zbkO" target="cTjLfkWN" />
+    <edge source="2GTwGKsm" target="2fx14QVS" />
+    <edge source="1cHc8MiO" target="v0j3xMCw" />
+    <edge source="v0j3xMCw" target="YOp0ve5T" />
+  </graph>
+</graphml>
