@@ -11,16 +11,16 @@ import "./App.css";
 
 function App() {
   return (
-    <Router>
+    <Router basename={`/my_slipbox`}>
       <div className="App">
         <NavBar />
         <div id="page-body">
-          <Route path="/" component={HomePage} exact />
-          <Route path="/about" component={AboutPage} />
-          <Route path="/notes-list" component={NotesList} />
-          <Route path="/graph" component={GraphPage} />
-          <Route path="/note/:note_id" component={NotePage} />
-          <Route path="/note-group/:note_id" component={NoteNeighborhoodPage} />
+          <Route path={`/`} component={HomePage} exact />
+          <Route path={`/about`} component={AboutPage} />
+          <Route path={`/notes-list`} component={NotesList} />
+          <Route path={`/graph`} component={GraphPage} />
+          <Route path={`/note/:note_id`} component={NotePage} />
+          <Route path={`/note-group/:note_id`} component={NoteNeighborhoodPage} />
         </div>
       </div>
     </Router>
