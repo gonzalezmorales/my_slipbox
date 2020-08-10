@@ -41,9 +41,9 @@ const myConfig = {
 //   window.alert(`Clicked node ${nodeId}`);
 // };
 
-const onDoubleClickNode = function(nodeId) {
+const onDoubleClickNode = function (nodeId) {
   //  window.alert(`Double clicked node ${nodeId}`);
-  window.open(`http://localhost:3000/note-group/${nodeId}`, "_blank");
+  window.open(`/note-group/${nodeId}`, "_blank");
 };
 
 // const onRightClickNode = function(event, nodeId) {
@@ -88,15 +88,15 @@ const GraphPage = () => (
       config={myConfig}
       // onClickNode={onClickNode}
       onDoubleClickNode={onDoubleClickNode}
-      // onRightClickNode={onRightClickNode}
-      // onClickGraph={onClickGraph}
-      // onClickLink={onClickLink}
-      // onRightClickLink={onRightClickLink}
-      // onMouseOverNode={onMouseOverNode}
-      // onMouseOutNode={onMouseOutNode}
-      // onMouseOverLink={onMouseOverLink}
-      // onMouseOutLink={onMouseOutLink}
-      // onNodePositionChange={onNodePositionChange}
+    // onRightClickNode={onRightClickNode}
+    // onClickGraph={onClickGraph}
+    // onClickLink={onClickLink}
+    // onRightClickLink={onRightClickLink}
+    // onMouseOverNode={onMouseOverNode}
+    // onMouseOutNode={onMouseOutNode}
+    // onMouseOverLink={onMouseOverLink}
+    // onMouseOutLink={onMouseOutLink}
+    // onNodePositionChange={onNodePositionChange}
     />
   </div>
 );
