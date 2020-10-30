@@ -1,0 +1,10 @@
+[1024/195153.951:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1024/212246.889:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1024/212246.905:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1024/212246.905:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1024/212246.905:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1024/212246.905:ERROR:exception_snapshot_win.cc(99)] thread ID 41592 not found in process
+[1024/212246.905:ERROR:exception_snapshot_win.cc(99)] thread ID 5168 not found in process
+[1024/212246.920:ERROR:exception_snapshot_win.cc(99)] thread ID 40760 not found in process
+[1024/212246.920:ERROR:exception_snapshot_win.cc(99)] thread ID 38944 not found in process
+[1024/212246.920:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
