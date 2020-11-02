@@ -20,16 +20,18 @@ const myConfig = {
     size: 120,
     highlightStrokeColor: "blue",
     labelProperty: "name",
-    fontSize: 8,
-    highlightFontSize: 9,
+    fontSize: 10,
+    highlightFontSize: 12,
     highlightFontWeight: "bold"
   },
   link: {
-    highlightColor: "blue"
+    highlightColor: "blue",
+    strokeWidth: 0.5,
+    opacity: 0.5
   },
   width: window.innerWidth,
   height: window.innerHeight * 0.9,
-  d3: { gravity: -500, alphaTarget: 0.9 }
+  d3: { gravity: -1000, alphaTarget: 0.1 }
 };
 
 // graph event callbacks
