@@ -106,7 +106,7 @@ p {
 }
 
 .full-width {
-  width: 100vw;
+  width: 200vw;
   position: relative;
   left: 50%;
   right: 50%;
