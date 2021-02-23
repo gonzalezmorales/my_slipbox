@@ -105,8 +105,8 @@ for n in clean_notes:
 
 
 with open('src/data/nodes.json', 'w') as outfile:
-    json.dump(clean_notes, outfile)
+    json.dump(clean_notes, outfile, indent=4)
 
 
 with open('src/data/edges.json', 'w') as outfile:
-    json.dump(generate_edges(graph), outfile)
+    json.dump(generate_edges(graph), outfile, indent=4)
